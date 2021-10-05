@@ -1,0 +1,7 @@
+_minted-ai-dictionary-ebook
+
+chapters/*.aux
+
+ai-dictionary-ebook.*
+!ai-dictionary-ebook.tex
+!ai-dictionary-ebook.pdf
