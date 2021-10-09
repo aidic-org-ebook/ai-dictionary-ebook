@@ -61,14 +61,22 @@ Tham khảo\footnote{https://deepai.org/machine-learning-glossary-and-terms/desc
 \subsection*{Mẹo nhỏ:}
 ???
 %%
-\section*{\huge \textcolor{Red}{Decision Boundary}  \small \textit{??? chưa dịch ???} }
-Tham khảo\footnote{https://developers.google.com/machine-learning/glossary\#decision-boundary} (tạm để đây, còn khi dịch sau sẽ xoá hoặc giấu dòng này đi)
+\section*{\huge \textcolor{Red}{Decision Boundary}  \small \textit{Ranh giới quyết định} }
+Tham khảo\footnote{\url{https://en.wikipedia.org/wiki/Decision_boundary}}
 \subsection*{Định nghĩa:}
-???
+Trong bài toán phân loại, \textbf{Ranh giới quyết định} là đường, mặt phẳng, hay siêu mặt phẳng giúp phân chia vùng của các cụm (cluster) dữ liệu trong không gian.
+Bộ phân loại sẽ coi các điểm nằm cùng 1 phía của ranh giới quyết định cùng thuộc 1 lớp, và các điểm nằm về phía còn lại của ranh giới cùng thuộc lớp còn lại.
+
+Trong học máy, ranh giới quyết định tồn tại dưới nhiều dạng khác nhau.
+Trong mạng nơ-ron nhân tạo, nếu mạng không có tầng ẩn nào thì mạng chỉ có thể học ranh giới tuyến tính, còn nếu mạng có ít nhất một tầng ẩn thì mạng có thể học bất kì dạng ranh giới nào (theo Universal approximation theorem).
 \subsection*{Ví dụ:}
-???
-\subsection*{Mẹo nhỏ:}
-???
+\begin{figure*}[!h]
+    \centering
+    \includegraphics[width=1.0\linewidth]{figures/D_Decision_boundary.png}
+    \caption{Ranh giới quyết định. Các điểm ở phía trên ranh giới cùng thuộc 1 lớp (màu đỏ), trong khi đó các điểm nằm phía dưới ranh giới thuộc lớp còn lại (màu xanh).}
+    \label{fig:D_Decision_boundary}
+\end{figure*}
+% \subsection*{Mẹo nhỏ:}
 %%
 \section*{\huge \textcolor{Red}{Decision Tree}  \small \textit{??? chưa dịch ???} }
 Tham khảo\footnote{https://developers.google.com/machine-learning/glossary\#decision-tree} (tạm để đây, còn khi dịch sau sẽ xoá hoặc giấu dòng này đi)
