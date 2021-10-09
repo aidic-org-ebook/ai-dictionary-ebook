@@ -9,4 +9,4 @@ assignees: ''
 
 Đường dẫn tới phần cần dịch:
 
-[Hướng dẫn đóng góp](docs/CONTRIBUTING.md)
+[Hướng dẫn đóng góp](https://github.com/aidic-org-ebook/ai-dictionary-ebook/blob/main/docs/CONTRIBUTING.md)
