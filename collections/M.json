@@ -1,0 +1,443 @@
+[
+    {
+        "word": "Machine Bias",
+        "reference": "https://searchenterpriseai.techtarget.com/definition/machine-learning-bias-algorithm-bias-or-AI-bias",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Machine Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Machine Perception",
+        "reference": "https://research.google/research-areas/machine-perception/",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Manhattan norm",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Manifold Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Market Basket Analysis",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Markov Chain",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/markov-chain",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Markov decision process (MDP)",
+        "reference": "https://developers.google.com/machine-learning/glossary#markov-decision-process-mdp",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Markov Model",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/markov-model",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Masked Language Model",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Masked Multi-Head Attention",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Matrix Decomposition",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Matrix Factorization",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Max Norm Regularization",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Max-Pooling",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/max-pooling",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Maxout Network",
+        "reference": "https://arxiv.org/abs/1302.4389",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Mean Absolute Error (MAE)",
+        "reference": "https://developers.google.com/machine-learning/glossary#mean-absolute-error-mae",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Mean Squared Error (MSE)",
+        "reference": "https://developers.google.com/machine-learning/glossary#mean-squared-error-mse",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Mean-shift Clustering",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Min-features bias",
+        "reference": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.48.2488&rep=rep1&type=pdf",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Meta-heuristic",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Meta-learning",
+        "reference": "https://en.wikipedia.org/wiki/Meta_learning",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Mini-batch Gradient Descent",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Mini-batch Stochastic Gradient Descent",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Minimum Description Length",
+        "reference": "https://mitpress.mit.edu/books/minimum-description-length-principle",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Misclassification Cost",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Mixture of Experts",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Mode Collapse",
+        "reference": "https://developers.google.com/machine-learning/gan/problems",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Model Capacity",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Model Transparency",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Momentum Gradient Descent",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Monte Carlo Methods",
+        "reference": "https://link.springer.com/content/pdf/bbm%3A978-3-319-94878-2%2F1.pdf",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Morphological Analysis",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Multi-agent System",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Multi-class Classification",
+        "reference": "https://developers.google.com/machine-learning/glossary#multi-class-classification",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Multi-class Logistic Regression",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Multidimensional On-line Analytical Processing (MOLAP)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Multi-head Attention",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Multi-head Self-attention",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Multi-swarm Optimisation",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Multi-task Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Multilayer Perceptron (MLP)",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/multilayer-perceptron",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Multinomial Classification",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Multinomial Regression",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Multiple Imputation",
+        "reference": "https://stats.idre.ucla.edu/stata/seminars/mi_in_stata_pt1_new/",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Multiple Object Detection",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Multivariate Adaptive Regression Spline (MARS)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Multivariate Regression",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Mutual Imformation Greedy (MIG) algorithm",
+        "reference": "https://www.lri.fr/~pierres/donn%E9es/save/these/articles/lpr-queue/almuallim92efficient.pdf",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    }
+]

@@ -1,0 +1,344 @@
+[
+    {
+        "word": "Hadamard Product",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hard Attention",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hard Clustering",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Harmonic Mean",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/harmonic-mean",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hebbian Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Helmholtz Machine",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Heteroassociative memory",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Heuristic",
+        "reference": "https://www.sciencedirect.com/science/article/pii/S2351978918311351",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Heuristic Search",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hidden Feature",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hidden Layer",
+        "reference": "Sách Deep learning cơ bản, trang 85",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hidden Markov Model",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hidden Nodes",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hidden Representation",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hidden State",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hidden Unit",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hierarchical Clustering",
+        "reference": "https://developers.google.com/machine-learning/glossary#hierarchical_clustering",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hierarchical Mixtures of Experts",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hierarchical Softmax",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "High-Dimensional Data",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "High-Dimensional Statistics",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/high-dimensional-statistics",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Highway Networks",
+        "reference": "https://arxiv.org/pdf/1505.00387.pdf",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hinge Loss",
+        "reference": "https://developers.google.com/machine-learning/glossary#hinge-loss",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Histogram",
+        "reference": "https://vietquality.vn/nhung-dieu-can-biet-ve-histogram-diagram-bieu-do-phan-bo-tan-suat/",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Histograms Of Oriented Gradients(HOG)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Homoscedasticity",
+        "reference": "https://www.scribbr.com/frequently-asked-questions/what-is-homoscedasticity/",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hopfield Network",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Horizon Effect",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Human Level Machine Intelligence",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Human-based computation",
+        "reference": "https://en.wikipedia.org/wiki/Human-based_computation",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Human-Level Performance",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hybrid On-line Analytical Processing (HOLAP)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hypernetwork",
+        "reference": "https://arxiv.org/abs/1609.09106",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hyperparameter",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/hyperparameter",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hyperparameter Optimization",
+        "reference": "https://cs231n.github.io/neural-networks-3/",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hyperparameter Tuning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hyperplane",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/hyperplane",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Hypothesis Testing",
+        "reference": "https://www.investopedia.com/terms/h/hypothesistesting.asp#:~:text=What%20Is%20Hypothesis%20Testing%3F%20Hypothesis%20testing%20is%20an,plausibility%20of%20a%20hypothesis%20by%20using%20sample%20data",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    }
+]

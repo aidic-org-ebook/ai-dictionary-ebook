@@ -1,0 +1,191 @@
+[
+    {
+        "word": "Object Categorization",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Object Recognition",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Object Tracking",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Object-Semantics Aligned Pre-training (Oscar)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Objective Function",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Odered Data Encoding",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Offline Machine Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "One Hot Encoding",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "One-shot Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Online Machine Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "On-Line Analytical Processing (OLAP)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Ontology Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Open Mind Common Sense",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Open-domain Chatbot",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Optimizer",
+        "reference": "https://developers.google.com/machine-learning/glossary#optimizer",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Optimization Techniques",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Ordinary Least Squares",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Out-of-sample Prediction",
+        "reference": "https://www.aqr.com/Learning-Center/Machine-Learning/Machine-Learning-Glossary",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Outlier Detection",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Overfitting",
+        "reference": "https://developers.google.com/machine-learning/glossary#overfitting",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Oversampling",
+        "reference": "https://developers.google.com/machine-learning/glossary#oversampling",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": "",
+        "tricks": ""
+    }
+]
