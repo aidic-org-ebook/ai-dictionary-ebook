@@ -5,7 +5,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -14,7 +14,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -23,7 +23,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     }
 ]
