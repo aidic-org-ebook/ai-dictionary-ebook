@@ -43,14 +43,12 @@ def update_latex_doc(tex_path, data):
             if word['figure']:
                 for idx, fig in enumerate(word['figure']):
                     line.append(
-                        f"""
-                        \\begin{{figure}}[!h]
-                            \\centering
-                            \\includegraphics[width=1.0\\linewidth]{{ {fig['path']} }}
-                            \\caption{{ {fig['caption']} }}
-                            \\label{{fig:{word['word'].lower()}_{idx+1}}}
-                        \\end{{figure}}
-                        """
+f"""\\begin{{figure}}[!h]
+    \\centering
+    \\includegraphics[width=1.0\\linewidth]{{ {fig['path']} }}
+    \\caption{{ {fig['caption']} }}
+    \\label{{fig:{word['word'].lower()}_{idx+1}}}
+\\end{{figure}}"""
                     )
 
             if word['tricks']:
@@ -59,6 +57,7 @@ def update_latex_doc(tex_path, data):
                 )
 
             tex_file.write('\n'.join(line))
+            tex_file.write('\n')
             tex_file.write('\n')
 
 
