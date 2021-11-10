@@ -5,7 +5,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -14,7 +14,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -23,7 +23,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -32,7 +32,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -41,7 +41,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -50,7 +50,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -59,7 +59,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -68,7 +68,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -77,7 +77,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -86,14 +86,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
-        "tricks": ""
-    },
-    {
-        "word": "Batch Normalization",
-        "definition": "",
-        "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -102,7 +95,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -111,7 +104,16 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
+        "word": "Bayesian Inference",
+        "reference": "https://vi.wikipedia.org/wiki/Suy_lu\\%E1\\%BA\\%ADn_Bayes",
+        "status": "Translated",
+        "definition": "Suy luận Bayes ",
+        "desciption": "Là một kiểu suy luận thống kê mà trong đó các quan sát hay bằng chứng được dùng để cập nhật hoặc suy luận ra xác suất cho việc một giả thuyết có thể là đúng.",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -120,7 +122,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -129,7 +131,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -138,7 +140,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -147,7 +149,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -156,7 +158,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -165,7 +167,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -174,7 +176,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -183,7 +185,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -192,7 +194,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -201,16 +203,18 @@
         "status": "",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
         "word": "Bias term",
-        "reference": "",
-        "status": "Pending",
-        "definition": "",
-        "desciption": "",
-        "figure": "",
+        "reference": "https://viblo.asia/p/khi-tat-ca-cac-phan-tich-hoc-may-deu-da-loi-thoi-overfitting-khong-ton-tai-XL6lAvDg5ek",
+        "status": "Translated",
+        "definition": "Hệ số điều chỉnh, Độ chệch",
+        "desciption": "Hệ số điều chỉnh, độ chệch là sự sai khác giữa trung bình dự đoán của mô hình chúng ta đang xây dựng với giá trị chính xác để dự đoán.",
+        "figure": [
+            {"path": "figures/B_Bias_NCB_N1.png", "caption": "Ví dụ về độ chệch trong bài toán hồi quy tuyến tính."}
+        ],
         "tricks": ""
     },
     {
@@ -219,7 +223,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -228,7 +232,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -237,7 +241,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -246,7 +250,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -255,7 +259,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -264,7 +268,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -273,7 +277,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -282,7 +286,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -291,7 +295,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -300,7 +304,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -309,7 +313,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -318,7 +322,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -327,7 +331,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -336,7 +340,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -345,7 +349,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -354,7 +358,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     },
     {
@@ -363,7 +367,7 @@
         "status": "Pending",
         "definition": "",
         "desciption": "",
-        "figure": "",
+        "figure": [],
         "tricks": ""
     }
 ]
