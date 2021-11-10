@@ -47,7 +47,7 @@ def update_latex_doc(tex_path, data):
                         \\begin{{figure}}[!h]
                             \\centering
                             \\includegraphics[width=1.0\\linewidth]{{ {fig['path']} }}
-                            \\caption{{ {fig['Caption']} }}
+                            \\caption{{ {fig['caption']} }}
                             \\label{{fig:{word['word'].lower()}_{idx+1}}}
                         \\end{{figure}}
                         """
