@@ -45,7 +45,7 @@ def update_latex_doc(tex_path, data):
                     line.append(
 f"""\\begin{{figure}}[!h]
     \\centering
-    \\includegraphics[width=1.0\\linewidth]{{ {fig['path']} }}
+    \\includegraphics[width={fig['width'] if fig['width'] else 0.75}\\linewidth]{{ {fig['path']} }}
     \\caption{{ {fig['caption']} }}
     \\label{{fig:{word['word'].lower()}_{idx+1}}}
 \\end{{figure}}"""
