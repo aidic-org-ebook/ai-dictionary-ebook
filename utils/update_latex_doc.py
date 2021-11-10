@@ -27,11 +27,13 @@ def update_latex_doc(tex_path, data):
 
             line = []
             line.append(
-                f"\\section*{{\\huge \\textcolor{{Red}}{{ {word['word']} }} \\small \\textit{word['definition']} }}"
+                f"\\section*{{\\huge \\textcolor{{Red}}{{ {word['word']} }} \\small \\textit{{ {word['definition']} }} }}"
             )
 
             if word['reference']:
-                line[0] += f" \\footnote{{ {word['reference']} }}"
+                line.append(
+                    f"Tham khảo: \\footnote{{ \\url{{{word['reference']}}} }}"
+                )
 
             if word['desciption']:
                 line.append(
@@ -56,10 +58,11 @@ def update_latex_doc(tex_path, data):
                     f"\\subsection*{{Mẹo nhỏ:}}\n{word['tricks']}"
                 )
 
-            tex_file.writelines(line)
+            tex_file.write('\n'.join(line))
+            tex_file.write('\n')
 
 
-if __name__ is "__main__":
+if __name__ == "__main__":
 
     word_collections_path = 'collections'
     ebook_path = 'ebook/chapters'
