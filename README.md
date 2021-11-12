@@ -25,7 +25,8 @@ Dự án có thể chia thành nhiều giai đoạn nhỏ để xử lý, nhưng
 
 ## Đóng góp cho dự án Từ điển
 Để tham gia đóng góp cho dự án Từ điển thuật ngữ AI dành cho người Việt, bạn có thể:
-- Đề xuất thêm từ mới vào kho thuật ngữ của dự án hoặc tham gia dịch thuật thông qua các Pull Request theo các bước theo Hướng dẫn dịch thuật **[tại đây](docs/CONTRIBUTING.md)**.
+- Đề xuất thêm từ mới vào kho thuật ngữ của dự án bằng cách tạo Issue theo Hướng dẫn **[tại đây](docs/CREATING_ISSUE_INSTRUCTION.md)**.
+- Tham gia dịch thuật thông qua các Pull Request theo Hướng dẫn dịch thuật **[tại đây](docs/CONTRIBUTING_INSTRUCTION.md)**.
 - Tham gia phản biện (review) các Pull Request theo Hướng dẫn dành cho người phản biện **[tại đây](docs/REVIEWER_INSTRUCTION.md)**.
 - Đề xuất chỉnh sửa về ngữ pháp, những điểm chưa nhất quán trong cách dịch.
 - Sửa các lỗi chính tả trong bản thảo.
