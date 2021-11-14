@@ -63,6 +63,15 @@
         "tricks": ""
     },
     {
+        "word": "On-Line Analytical Processing (OLAP)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
         "word": "One Hot Encoding",
         "reference": "",
         "status": "Pending",
@@ -82,15 +91,6 @@
     },
     {
         "word": "Online Machine Learning",
-        "reference": "",
-        "status": "Pending",
-        "definition": "",
-        "desciption": "",
-        "figure": [],
-        "tricks": ""
-    },
-    {
-        "word": "On-Line Analytical Processing (OLAP)",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -126,8 +126,8 @@
         "tricks": ""
     },
     {
-        "word": "Optimizer",
-        "reference": "https://developers.google.com/machine-learning/glossary#optimizer",
+        "word": "Optimization Techniques",
+        "reference": "",
         "status": "Pending",
         "definition": "",
         "desciption": "",
@@ -135,8 +135,8 @@
         "tricks": ""
     },
     {
-        "word": "Optimization Techniques",
-        "reference": "",
+        "word": "Optimizer",
+        "reference": "https://developers.google.com/machine-learning/glossary#optimizer",
         "status": "Pending",
         "definition": "",
         "desciption": "",

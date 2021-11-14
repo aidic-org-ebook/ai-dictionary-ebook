@@ -261,7 +261,16 @@
         "tricks": ""
     },
     {
-        "word": "Anchor Box",
+        "word": "Analogical Reasoning",
+        "reference": "https://arxiv.org/pdf/1902.00120.pdf",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
+        "word": "Analytic geometry",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -270,7 +279,7 @@
         "tricks": ""
     },
     {
-        "word": "Answer Literal",
+        "word": "Anchor Box",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -288,16 +297,7 @@
         "tricks": ""
     },
     {
-        "word": "Analogical Reasoning",
-        "reference": "https://arxiv.org/pdf/1902.00120.pdf",
-        "status": "Pending",
-        "definition": "",
-        "desciption": "",
-        "figure": [],
-        "tricks": ""
-    },
-    {
-        "word": "Analytic geometry",
+        "word": "Answer Literal",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -513,6 +513,24 @@
         "tricks": ""
     },
     {
+        "word": "Attention Mechanism",
+        "reference": "https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
+        "word": "Attention Models",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
         "word": "Augmented Matrix",
         "reference": "",
         "status": "Pending",
@@ -532,24 +550,6 @@
     },
     {
         "word": "Augmented Transition Network - ATN",
-        "reference": "",
-        "status": "Pending",
-        "definition": "",
-        "desciption": "",
-        "figure": [],
-        "tricks": ""
-    },
-    {
-        "word": "Attention Mechanism",
-        "reference": "https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f",
-        "status": "Pending",
-        "definition": "",
-        "desciption": "",
-        "figure": [],
-        "tricks": ""
-    },
-    {
-        "word": "Attention Models",
         "reference": "",
         "status": "Pending",
         "definition": "",

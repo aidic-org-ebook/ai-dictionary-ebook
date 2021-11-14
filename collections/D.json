@@ -9,35 +9,8 @@
         "tricks": ""
     },
     {
-        "word": "Database",
-        "reference": "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four",
-        "status": "Pending",
-        "definition": "",
-        "desciption": "",
-        "figure": [],
-        "tricks": ""
-    },
-    {
-        "word": "Dataframe",
-        "reference": "https://developers.google.com/machine-learning/glossary#dataframe",
-        "status": "Pending",
-        "definition": "",
-        "desciption": "",
-        "figure": [],
-        "tricks": ""
-    },
-    {
-        "word": "Dataset",
-        "reference": "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four",
-        "status": "Pending",
-        "definition": "",
-        "desciption": "",
-        "figure": [],
-        "tricks": ""
-    },
-    {
-        "word": "Data-Efficient Learning",
-        "reference": "https://arxiv.org/abs/2102.12903",
+        "word": "Dark data",
+        "reference": "https://www.bmc.com/blogs/dark-data/",
         "status": "Pending",
         "definition": "",
         "desciption": "",
@@ -99,8 +72,8 @@
         "tricks": ""
     },
     {
-        "word": "Dark data",
-        "reference": "https://www.bmc.com/blogs/dark-data/",
+        "word": "Data-Efficient Learning",
+        "reference": "https://arxiv.org/abs/2102.12903",
         "status": "Pending",
         "definition": "",
         "desciption": "",
@@ -108,7 +81,25 @@
         "tricks": ""
     },
     {
-        "word": "Density-Based Spatial Clustering of Applications with Noise",
+        "word": "Database",
+        "reference": "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
+        "word": "Dataframe",
+        "reference": "https://developers.google.com/machine-learning/glossary#dataframe",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
+        "word": "Dataset",
         "reference": "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four",
         "status": "Pending",
         "definition": "",
@@ -362,6 +353,15 @@
     {
         "word": "Densely Connected Network",
         "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
+        "word": "Density-Based Spatial Clustering of Applications with Noise",
+        "reference": "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four",
         "status": "Pending",
         "definition": "",
         "desciption": "",

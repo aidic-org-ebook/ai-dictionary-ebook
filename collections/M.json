@@ -171,15 +171,6 @@
         "tricks": ""
     },
     {
-        "word": "Min-features bias",
-        "reference": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.48.2488&rep=rep1&type=pdf",
-        "status": "Pending",
-        "definition": "",
-        "desciption": "",
-        "figure": [],
-        "tricks": ""
-    },
-    {
         "word": "Meta-heuristic",
         "reference": "",
         "status": "Pending",
@@ -191,6 +182,15 @@
     {
         "word": "Meta-learning",
         "reference": "https://en.wikipedia.org/wiki/Meta_learning",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
+        "word": "Min-features bias",
+        "reference": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.48.2488&rep=rep1&type=pdf",
         "status": "Pending",
         "definition": "",
         "desciption": "",
@@ -324,15 +324,6 @@
         "tricks": ""
     },
     {
-        "word": "Multidimensional On-line Analytical Processing (MOLAP)",
-        "reference": "",
-        "status": "Pending",
-        "definition": "",
-        "desciption": "",
-        "figure": [],
-        "tricks": ""
-    },
-    {
         "word": "Multi-head Attention",
         "reference": "",
         "status": "Pending",
@@ -361,6 +352,15 @@
     },
     {
         "word": "Multi-task Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
+        "word": "Multidimensional On-line Analytical Processing (MOLAP)",
         "reference": "",
         "status": "Pending",
         "definition": "",

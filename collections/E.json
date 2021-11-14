@@ -306,8 +306,8 @@
         "tricks": ""
     },
     {
-        "word": "Evolutionary Computation",
-        "reference": "https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence#E",
+        "word": "Evolutionary Algorithm",
+        "reference": "",
         "status": "Pending",
         "definition": "",
         "desciption": "",
@@ -315,8 +315,8 @@
         "tricks": ""
     },
     {
-        "word": "Evolutionary Algorithm",
-        "reference": "",
+        "word": "Evolutionary Computation",
+        "reference": "https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence#E",
         "status": "Pending",
         "definition": "",
         "desciption": "",

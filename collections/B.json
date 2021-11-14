@@ -108,29 +108,20 @@
         "tricks": ""
     },
     {
-        "word": "Bayesian Inference",
-        "reference": "https://vi.wikipedia.org/wiki/Suy_lu\\%E1\\%BA\\%ADn_Bayes",
-        "status": "Translated",
-        "definition": "Suy luận Bayes ",
-        "desciption": "Là một kiểu suy luận thống kê mà trong đó các quan sát hay bằng chứng được dùng để cập nhật hoặc suy luận ra xác suất cho việc một giả thuyết có thể là đúng.",
-        "figure": [],
-        "tricks": ""
-    },
-    {
-        "word": "Bayesian Programming",
-        "reference": "",
-        "status": "Pending",
-        "definition": "",
-        "desciption": "",
-        "figure": [],
-        "tricks": ""
-    },
-    {
         "word": "Bayesian Filter",
         "reference": "https://link.springer.com/content/pdf/bbm%3A978-3-319-94878-2%2F1.pdf",
         "status": "Pending",
         "definition": "",
         "desciption": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
+        "word": "Bayesian Inference",
+        "reference": "https://vi.wikipedia.org/wiki/Suy_lu\\%E1\\%BA\\%ADn_Bayes",
+        "status": "Translated",
+        "definition": "Suy luận Bayes ",
+        "desciption": "Là một kiểu suy luận thống kê mà trong đó các quan sát hay bằng chứng được dùng để cập nhật hoặc suy luận ra xác suất cho việc một giả thuyết có thể là đúng.",
         "figure": [],
         "tricks": ""
     },
@@ -154,6 +145,15 @@
     },
     {
         "word": "Bayesian Optimization",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
+        "word": "Bayesian Programming",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -213,7 +213,10 @@
         "definition": "Hệ số điều chỉnh, Độ chệch",
         "desciption": "Hệ số điều chỉnh, độ chệch là sự sai khác giữa trung bình dự đoán của mô hình chúng ta đang xây dựng với giá trị chính xác để dự đoán.",
         "figure": [
-            {"path": "figures/B_Bias_NCB_N1.png", "caption": "Ví dụ về độ chệch trong bài toán hồi quy tuyến tính."}
+            {
+                "path": "figures/B_Bias_NCB_N1.png",
+                "caption": "Ví dụ về độ chệch trong bài toán hồi quy tuyến tính."
+            }
         ],
         "tricks": ""
     },
@@ -326,7 +329,7 @@
         "tricks": ""
     },
     {
-        "word": "Bootstrap AGGregation",
+        "word": "Boosted Decision Tree",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -335,7 +338,7 @@
         "tricks": ""
     },
     {
-        "word": "Boosted Decision Tree",
+        "word": "Bootstrap AGGregation",
         "reference": "",
         "status": "Pending",
         "definition": "",

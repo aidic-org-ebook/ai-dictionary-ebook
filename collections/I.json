@@ -1,14 +1,5 @@
 [
     {
-        "word": "Identity Matrix",
-        "reference": "",
-        "status": "Pending",
-        "definition": "",
-        "desciption": "",
-        "figure": [],
-        "tricks": ""
-    },
-    {
         "word": "Identity Function",
         "reference": "https://en.wikipedia.org/wiki/Identity_function",
         "status": "Pending",
@@ -18,8 +9,26 @@
         "tricks": ""
     },
     {
+        "word": "Identity Matrix",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
         "word": "Image Augmentation",
         "reference": "https://towardsdatascience.com/image-augmentation-for-deep-learning-histogram-equalization-a71387f609b2",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
+        "word": "Image Domain Conversion",
+        "reference": "",
         "status": "Pending",
         "definition": "",
         "desciption": "",
@@ -288,7 +297,7 @@
         "tricks": ""
     },
     {
-        "word": "Interactive Machine Learning",
+        "word": "Interactive Dichotimiser 3 (ID3) algorithm",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -297,7 +306,7 @@
         "tricks": ""
     },
     {
-        "word": "Interactive Dichotimiser 3 (ID3) algorithm",
+        "word": "Interactive Machine Learning",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -335,15 +344,6 @@
     {
         "word": "Item Matrix",
         "reference": "https://developers.google.com/machine-learning/glossary#item-matrix",
-        "status": "Pending",
-        "definition": "",
-        "desciption": "",
-        "figure": [],
-        "tricks": ""
-    },
-    {
-        "word": "Image Domain Conversion",
-        "reference": "",
         "status": "Pending",
         "definition": "",
         "desciption": "",
