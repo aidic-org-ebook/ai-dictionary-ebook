@@ -27,7 +27,7 @@
         "tricks": ""
     },
     {
-        "word": "Self-attention",
+        "word": "Self Organizing Map (SOM)",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -36,7 +36,7 @@
         "tricks": ""
     },
     {
-        "word": "Self Organizing Map (SOM)",
+        "word": "Self-attention",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -56,15 +56,6 @@
     {
         "word": "Self-Tuning",
         "reference": "https://arxiv.org/abs/2102.12903",
-        "status": "Pending",
-        "definition": "",
-        "desciption": "",
-        "figure": [],
-        "tricks": ""
-    },
-    {
-        "word": "Sensitivity",
-        "reference": "",
         "status": "Pending",
         "definition": "",
         "desciption": "",
@@ -101,6 +92,15 @@
     {
         "word": "Semi-Supervised Learning",
         "reference": "https://developers.google.com/machine-learning/glossary#semi-supervised-learning",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
+        "word": "Sensitivity",
+        "reference": "",
         "status": "Pending",
         "definition": "",
         "desciption": "",

@@ -162,6 +162,15 @@
         "tricks": ""
     },
     {
+        "word": "Regressor",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
         "word": "Regularization",
         "reference": "https://docs.microsoft.com/en-us/dotnet/machine-learning/resources/glossary",
         "status": "Pending",
@@ -180,15 +189,6 @@
         "tricks": ""
     },
     {
-        "word": "Regressor",
-        "reference": "",
-        "status": "Pending",
-        "definition": "",
-        "desciption": "",
-        "figure": [],
-        "tricks": ""
-    },
-    {
         "word": "Reinforcement Learning (RL)",
         "reference": "https://developers.google.com/machine-learning/glossary#reinforcement-learning-rl",
         "status": "Pending",
@@ -198,7 +198,7 @@
         "tricks": ""
     },
     {
-        "word": "Relative Loss",
+        "word": "Relational On-line Analytical Processing (ROLAP)",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -207,7 +207,7 @@
         "tricks": ""
     },
     {
-        "word": "Relational On-line Analytical Processing (ROLAP)",
+        "word": "Relative Loss",
         "reference": "",
         "status": "Pending",
         "definition": "",

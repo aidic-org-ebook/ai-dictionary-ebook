@@ -72,8 +72,8 @@
         "tricks": ""
     },
     {
-        "word": "Character Recognition",
-        "reference": "",
+        "word": "Chain Rule",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/chain-rule",
         "status": "Pending",
         "definition": "",
         "desciption": "",
@@ -81,8 +81,8 @@
         "tricks": ""
     },
     {
-        "word": "Chain Rule",
-        "reference": "https://deepai.org/machine-learning-glossary-and-terms/chain-rule",
+        "word": "Character Recognition",
+        "reference": "",
         "status": "Pending",
         "definition": "",
         "desciption": "",
@@ -378,7 +378,7 @@
         "tricks": ""
     },
     {
-        "word": "Constraint Logic Programming",
+        "word": "Constrained Optimization",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -387,7 +387,7 @@
         "tricks": ""
     },
     {
-        "word": "Constrained Optimization",
+        "word": "Constraint Logic Programming",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -414,7 +414,7 @@
         "tricks": ""
     },
     {
-        "word": "Continuous Optimization",
+        "word": "Continuous Bag of Words (CBOW)",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -423,7 +423,7 @@
         "tricks": ""
     },
     {
-        "word": "Continuous Bag of Words (CBOW)",
+        "word": "Continuous Optimization",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -558,7 +558,7 @@
         "tricks": ""
     },
     {
-        "word": "Cross-validation",
+        "word": "Cross Entropy",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -567,7 +567,7 @@
         "tricks": ""
     },
     {
-        "word": "Curse of Dimensionality",
+        "word": "Cross-validation",
         "reference": "",
         "status": "Pending",
         "definition": "",
@@ -585,7 +585,7 @@
         "tricks": ""
     },
     {
-        "word": "Cross Entropy",
+        "word": "Curse of Dimensionality",
         "reference": "",
         "status": "Pending",
         "definition": "",

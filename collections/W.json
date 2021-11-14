@@ -117,6 +117,15 @@
         "tricks": ""
     },
     {
+        "word": "Word vector",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "desciption": "",
+        "figure": [],
+        "tricks": ""
+    },
+    {
         "word": "Word-Context Matrix",
         "reference": "",
         "status": "Pending",
@@ -127,15 +136,6 @@
     },
     {
         "word": "Word-Tag Model",
-        "reference": "",
-        "status": "Pending",
-        "definition": "",
-        "desciption": "",
-        "figure": [],
-        "tricks": ""
-    },
-    {
-        "word": "Word vector",
         "reference": "",
         "status": "Pending",
         "definition": "",
