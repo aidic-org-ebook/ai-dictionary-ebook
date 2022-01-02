@@ -1,0 +1,29 @@
+[
+    {
+        "word": "Decision Doundary",
+        "reference": "https://developers.google.com/machine-learning/glossary#decision-Doundary",
+        "status": "Translated",
+        "definition": "Ranh giới quyết định",
+        "desciption": "Ranh giới quyết định là đường, mặt phẳng hay siêu mặt phẳng giúp phân chia vùng của các cụm (cluster) dữ liệu trong không gian. Trong 1 bài toán phân loại có thể cho nhiều ranh giới quyết định tương ứng với nhiều lớp khác nhau.",
+        "figure": [
+            {
+                "path": "figures/D_Decision_boundary.png",
+                "width": 0.4
+            }
+        ],
+        "tricks": ""
+    },
+    {
+        "word": "Digital Image",
+        "reference": "",
+        "status": "Translated",
+        "definition": "Ảnh số",
+        "desciption": "Ảnh số là khái niệm thường dùng trong phân tích và xử lý hình ảnh, được định nghĩa là một ma trận các điểm ảnh với các giá trị dùng để mô tả ảnh gần với ảnh thật.",
+        "figure": [
+            {
+                "path": "figures/D_Digital_Image_CPD_N1.png"
+            }
+        ],
+        "tricks": "Trong C/C++ và Python, thư viện \\textit{{opencv}} thường được sử dụng để thao tác với ảnh số."
+    }
+]
