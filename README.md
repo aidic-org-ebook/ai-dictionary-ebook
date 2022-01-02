@@ -15,7 +15,7 @@ Dự án có thể chia thành nhiều giai đoạn nhỏ để xử lý, nhưng
 - **Giai đoạn 2: Dịch từ**. Trong giai đoạn này, lần lượt các từ đã qua Giai đoạn 1 sẽ được giao cho từng thành viên để dịch, với mục tiêu là giải thích một cách dễ hiểu ý nghĩa của thuật ngữ, giúp người đọc hiểu được thuật ngữ trong ngữ cảnh ML và AI, hình dung được cách sử dụng từ qua ví dụ và hình minh hoạ.
 
 ## Cấu trúc thư mục
-- Thư mục `collections`: chứa dữ liệu của dữ án được lưu theo định dạng JSON, gồm các tệp `A.json`, `B.json` , ... `Z.json` chia các từ theo bảng chữ cái. Các thành viên tham gia đóng góp đa phần sẽ tương tác với thư mục này.
+- Thư mục `collections`: chứa dữ liệu của dữ án được lưu theo định dạng Markdown, gồm các tệp `A.md`, `B.md` , ... `Z.md` chia các từ theo bảng chữ cái. Các thành viên tham gia đóng góp đa phần sẽ tương tác với thư mục này.
 - Thư mục `ebook`: chứa chứa template Ebook viết bằng Latex, trong đó:
     - Tệp `ai-dictionary-ebook.tex` sử dụng để build bản PDF
     - Thư mục `chapter` chứa toàn bộ bản dịch của cuốn Từ điển thuật ngữ AI dành cho người Việt, và được chia thành các tệp `A.tex`, `B.tex`, ... , `Z.tex` theo bảng chữ cái.

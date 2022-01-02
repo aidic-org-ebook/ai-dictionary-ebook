@@ -20,35 +20,33 @@ Sau khi vào tập tin tương ứng, bạn nhấn vào nút "Edit" hình chiế
 ## Bước 3: Tiến hành dịch thuật
 Ví dụ, bạn được assign Issue Dịch từ `Bias term`.
 Để bắt đầu dịch thuật, bạn cần tìm đến đoạn sau:
-```json
-{
-    "word": "Bias term",
-    "reference": "https://viblo.asia/p/khi-tat-ca-cac-phan-tich-hoc-may-deu-da-loi-thoi-overfitting-khong-ton-tai-XL6lAvDg5ek",
-    "status": "Pending",
-    "definition": "",
-    "desciption": "",
-    "figure": [],
-    "tricks": ""
-},
+```md
+# Bias term
+### Reference
+https://viblo.asia/p/khi-tat-ca-cac-phan-tich-hoc-may-deu-da-loi-thoi-overfitting-khong-ton-tai-XL6lAvDg5ek
+### Status
+Pending
+### Definition
+### Desciption
+### Figure
+### Tricks
 ```
 trong đó, đảm bảo rằng `"status"` là `Pending`.
 Hãy chỉnh sửa phần nội dung này.
 Phần dịch hoàn chỉnh có thể có dạng như sau:
-```json
-{
-    "word": "Bias term",
-    "reference": "https://viblo.asia/p/khi-tat-ca-cac-phan-tich-hoc-may-deu-da-loi-thoi-overfitting-khong-ton-tai-XL6lAvDg5ek",
-    "status": "Translated",
-    "definition": "Hệ số điều chỉnh, Độ chệch",
-    "desciption": "Hệ số điều chỉnh, độ chệch là sự sai khác giữa trung bình dự đoán của mô hình chúng ta đang xây dựng với giá trị chính xác để dự đoán.",
-    "figure": [
-        {
-            "path": "figures/B_Bias_NCB_N1.png",
-            "caption": "Ví dụ về độ chệch trong bài toán hồi quy tuyến tính."
-        }
-    ],
-    "tricks": ""
-},
+```md
+# Bias term
+### Reference
+https://viblo.asia/p/khi-tat-ca-cac-phan-tich-hoc-may-deu-da-loi-thoi-overfitting-khong-ton-tai-XL6lAvDg5ek
+### Status
+Translated
+### Definition
+Hệ số điều chỉnh, Độ chệch
+### Desciption
+Hệ số điều chỉnh, độ chệch là sự sai khác giữa trung bình dự đoán của mô hình chúng ta đang xây dựng với giá trị chính xác để dự đoán.
+### Figure
+[{"path": "figures/B_Bias_NCB_N1.png", "caption": "Ví dụ về độ chệch trong bài toán hồi quy tuyến tính.", "width": 0.5}]
+### Tricks
 ```
 Nếu bản dịch của bạn có hình ảnh (như ví dụ trên), bạn hãy thêm đường dẫn giả định và chú thích ảnh như trên.
 Sau khi tạo PR theo Bước 4, bạn cần thực hiện [Bước 4b](##Bước-4b:-Thêm-hình-ảnh-cho-bản-dịch-(nếu-có)) để tải hình minh hoạ của bạn lên kho chứa của từ điển.
@@ -62,7 +60,7 @@ Có thể có nhiều hình vẽ minh hoạ cho 1 từ, tuy nhiên chúng tôi k
 
 **Lưu ý về format nội dung:**
 - Đảm bảo đúng cú pháp LateX. Khi đường dẫn `"reference"` hay các lệnh có dấu `{`, `}`, `%`, `\`, cần sửa lần lượt thành `{{`, `}}`, `\%`, `\\` để tránh bị lỗi khi chuyển đổi từ JSON sang Latex.
-- Trong một đoạn nội dung, mỗi câu dịch nên để riêng một dòng để thuận tiện cho quá trình Review ở Bước 4 (do LateX coi cách 1 dòng là ngắt đoạn, 2 dòng sát nhau vẫn trong cùng 1 đoạn).
+- Trong một đoạn nội dung, mỗi câu nội dung nên để riêng một dòng để thuận tiện cho quá trình Review ở Bước 4 (do LateX và Markdown coi cách 1 dòng là ngắt đoạn, 2 dòng sát nhau vẫn trong cùng 1 đoạn).
 - Hình ảnh (nếu có) không nên sử dụng hình ảnh có bản quyền, các hình ảnh mờ hay không rõ nghĩa; nếu có thể, nên vẽ lại cho phù hợp. Các văn bản trong hình ảnh minh hoạ nên là Tiếng Việt.
 - Không tự ý thêm bớt các dòng trắng.
 
