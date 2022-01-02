@@ -386,9 +386,11 @@ Pending
 ### Reference
 https://deepai.org/machine-learning-glossary-and-terms/multilayer-perceptron
 ### Status
-Pending
+Translating
 ### Definition
+Perceptron đa tầng
 ### Desciption
+Perceptron đa tầng là tập hợp của các perceptron chia làm nhiều nhóm, mỗi nhóm tương ứng với một lớp: lớp đầu vào (Input Layer), lớp đầu ra (Output Layer) và lớp ẩn (Hidden Layer).
 ### Figure
 ### Tricks
 
