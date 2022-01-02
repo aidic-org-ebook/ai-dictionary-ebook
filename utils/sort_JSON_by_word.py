@@ -1,6 +1,5 @@
-from os.path import exists
 import json
-
+from os.path import exists
 
 def sort_json_by_word(path):
     """Sort the entries in the JSON file by the word alphabetically.
@@ -20,7 +19,7 @@ def sort_json_by_word(path):
 if __name__ == "__main__":
     for ascii_num in range(65, 91):
         character = chr(ascii_num)
-        path = 'Collections/' + character + '.json'
+        path = 'json_collections/' + character + '.json'
 
         if exists(path):
             sort_json_by_word(path)

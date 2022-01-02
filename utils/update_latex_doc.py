@@ -1,5 +1,6 @@
-from os.path import exists
 import json
+from os.path import exists
+from sort_json_by_word import sort_json_by_word
 
 
 def read_json(json_path):
@@ -22,9 +23,6 @@ def update_latex_doc(tex_path, data):
     """
     with open(tex_path, mode='w', encoding='utf8') as tex_file:
         for word in data:
-            if word['status'] != 'Translated':
-                continue
-
             line = []
             line.append(
                 f"\\section*{{\\huge \\textcolor{{Red}}{{ {word['word']} }} \\small \\textit{{ {word['definition']} }} }}"
@@ -42,14 +40,12 @@ def update_latex_doc(tex_path, data):
 
             if word['figure']:
                 for idx, fig in enumerate(word['figure']):
-                    line.append(
-f"""\\begin{{figure}}[!h]
-    \\centering
-    \\includegraphics[width={fig['width'] if fig['width'] else 0.75}\\linewidth]{{ {fig['path']} }}
-    \\caption{{ {fig['caption']} }}
-    \\label{{fig:{word['word'].lower()}_{idx+1}}}
-\\end{{figure}}"""
-                    )
+                    figure_format = "\\begin{{figure}}[!h]\n\t\\centering\n"
+                    figure_format += f"\t\\includegraphics[width={fig['width'] if 'width' in fig else 0.75}\\linewidth]{{ {fig['path']} }}\n"
+                    if 'caption' in fig:
+                        figure_format += f"\t\\caption{{ {fig['caption']} }}"
+                    figure_format += f"\\label{{fig:{word['word'].lower()}_{idx+1}}}\n\\end{{figure}}"
+                    line.append(figure_format)
 
             if word['tricks']:
                 line.append(
@@ -63,17 +59,22 @@ f"""\\begin{{figure}}[!h]
 
 if __name__ == "__main__":
 
-    word_collections_path = 'collections'
+    word_collections_path = 'json_collections'
     ebook_path = 'ebook/chapters'
 
     for ascii_num in range(65, 91):
         character = chr(ascii_num)
-
         # Each .json file is corressponding to a .tex file with the same name.
         json_path = word_collections_path + '/' + character + '.json'
         tex_path = ebook_path + '/' + character + '.tex'
 
-        data = read_json(json_path)
+        if exists(json_path):
+            sort_json_by_word(json_path)
 
-        if data:
-            update_latex_doc(tex_path, data)
+            data = read_json(json_path)
+
+            if data:
+                update_latex_doc(tex_path, data)
+
+        else:
+            print(f"{json_path} does not exists. Proceeding ...")

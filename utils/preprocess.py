@@ -1,48 +1,48 @@
-from os.path import exists
 import json
+from os.path import exists
 
+def convert_json_to_md():
+    for ascii_num in range(65, 91):
+        character = chr(ascii_num)
 
-def remove_stars(file_name):
-    """Remove any star "*" character from the json file.
+        json_path = 'Collections/' + character + '.json'
+        if exists(json_path):
+            with open(json_path, encoding='utf8') as json_file:
+                data = json.load(json_file)
+        else:
+            print(f"{json_path} does not exists. Proceeding ...")
 
-    Args:
-        file_name (string): path to the json file.
-    """
-    with open(file_name, encoding='utf8') as json_file:
-        data = json.load(json_file)
+        md_path = 'Collections/' + character + '.md'
+        with open(md_path, 'w', encoding='utf8') as md_file:
+            for word in data:
+                md_file.write(f"# {word['word']}\n")
 
-        for entry in data:
-            entry['word'] = entry['word'].strip('*')
+                md_file.write(f"### Reference\n")
+                if word['reference']:
+                    md_file.write(f"{word['reference']}\n")
 
-    with open(file_name, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
+                md_file.write(f"### Status\n")
+                if word['status']:
+                    md_file.write(f"{word['status']}\n")
 
+                md_file.write(f"### Definition\n")
+                if word['definition']:
+                    md_file.write(f"{word['definition']}\n")
 
-def add_header(file_name, headers):
-    """Add headers to existing json format.
+                md_file.write(f"### Desciption\n")
+                if word['desciption']:
+                    md_file.write(f"{word['desciption']}\n")
 
-    Args:
-        file_name (string): path to the json file.
-        header (list): list of headers.
-    """
-    with open(file_name, encoding='utf8') as json_file:
-        data = json.load(json_file)
+                md_file.write(f"### Figure\n")
+                if word['figure']:
+                    md_file.write(f"{word['figure']}\n")
 
-        for entry in data:
-            for header in headers:
-                entry[header] = ''
+                md_file.write(f"### Tricks\n")
+                if word['tricks']:
+                    md_file.write(f"{word['tricks']}\n")
 
-    with open(file_name, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
+                md_file.write("\n")
 
 
 if __name__ == "__main__":
-    for ascii_num in range(65, 91):
-        character = chr(ascii_num)
-        path = 'Collections/' + character + '.json'
-
-        if exists(path):
-            remove_stars(path)
-            add_header(path, ['definition', 'desciption', 'figure', 'tricks'])
-        else:
-            print(f"{path} does not exists. Proceeding ...")
+    convert_json_to_md()
