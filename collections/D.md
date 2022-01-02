@@ -132,9 +132,9 @@ Pending
 ### Figure
 ### Tricks
 
-# Decision Doundary
+# Decision Boundary
 ### Reference
-https://developers.google.com/machine-learning/glossary#decision-Doundary
+https://developers.google.com/machine-learning/glossary#decision-Boundary
 ### Status
 Translated
 ### Definition

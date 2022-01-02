@@ -1,7 +1,7 @@
 [
     {
-        "word": "Decision Doundary",
-        "reference": "https://developers.google.com/machine-learning/glossary#decision-Doundary",
+        "word": "Decision Boundary",
+        "reference": "https://developers.google.com/machine-learning/glossary#decision-Boundary",
         "status": "Translated",
         "definition": "Ranh giới quyết định",
         "desciption": "Ranh giới quyết định là đường, mặt phẳng hay siêu mặt phẳng giúp phân chia vùng của các cụm (cluster) dữ liệu trong không gian. Trong 1 bài toán phân loại có thể cho nhiều ranh giới quyết định tương ứng với nhiều lớp khác nhau.",
