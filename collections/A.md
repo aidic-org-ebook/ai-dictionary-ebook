@@ -6,10 +6,13 @@ Translated
 ### Definition
 Hàm kích hoạt
 ### Description
-Về bản chất, hàm kích hoạt thay đổi dữ liệu đầu ra cho neuron tiếp theo dựa vào tính chất đầu vào. Việc này giúp cho mạng neuron hiểu được những hình mẫu phức tạp của dữ liệu bằng cách thêm vào mạng sự 'phi tuyến tính'. Nếu không tồn tại hàm này, mạng neuron dù có bao nhiêu lớp cũng chỉ như một lớp mà thôi.
+Về bản chất, hàm kích hoạt thay đổi dữ liệu đầu ra cho neuron tiếp theo dựa vào tính chất của đầu vào.
+Bằng việc thêm vào mạng sự 'phi tuyến tính', các hàm kích hoạt giúp mạng neuron hiểu được những hình mẫu phức tạp hơn.
+Nếu không tồn tại những hàm này, mạng neuron bao nhiêu lớp cũng chỉ như một hàm tuyến tính cực lớn mà thôi.
 ### Figure
 [{"path": "figures/A_Activation_Function.png", "caption": "Ví dụ về một hàm kích hoạt phổ biến: Rectified Linear Unit - ReLU", "width": 0.5}
 ### Tricks
+Hàm kích hoạt được minh họa bên trên, ReLU, chỉ nên được dùng cho các hidden layers, vì nó có thể cho ra neuron 'chết' - neuron chỉ cho output = 0.
 
 # Activation Level
 ### Reference
