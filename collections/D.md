@@ -143,12 +143,7 @@ Ranh giới quyết định
 Ranh giới quyết định là đường, mặt phẳng hay siêu mặt phẳng giúp phân chia vùng của các cụm (cluster) dữ liệu trong không gian.
 Trong 1 bài toán phân loại có thể cho nhiều ranh giới quyết định tương ứng với nhiều lớp khác nhau.
 ### Figure
-[
-    {
-        "path": "figures/D_Decision_boundary.png",
-        "width": 0.4
-    }
-]
+[{"path": "figures/D_Decision_boundary.png", "width": 0.4}]
 ### Tricks
 
 # Decision List

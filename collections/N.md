@@ -218,7 +218,7 @@ Pending
 ### Figure
 ### Tricks
 
-# Nouvelle AI 
+# Nouvelle AI
 ### Reference
 ### Status
 Pending
