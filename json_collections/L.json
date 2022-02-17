@@ -1,272 +1,294 @@
 [
     {
         "word": "L1 Loss",
-        "reference": "https://afteracademy.com/blog/what-are-l1-and-l2-loss-functions",
+        "reference": [
+            "https://afteracademy.com/blog/what-are-l1-and-l2-loss-functions"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "L1 Regularization",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "L2 Loss",
-        "reference": "https://afteracademy.com/blog/what-are-l1-and-l2-loss-functions",
+        "reference": [
+            "https://afteracademy.com/blog/what-are-l1-and-l2-loss-functions"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "L2 Regularization",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Language Model for Dialogue Applications (LaMDA)",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Language Processing",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Language Recognition",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Language Translation",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Lasso Regression",
-        "reference": "https://deepai.org/machine-learning-glossary-and-terms/lasso-regression",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/lasso-regression"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Latent Dirichlet Allocation (LDA)",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Latent Semantic Indexing (LSI)",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Lazy Learning",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Leakly reLU",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Learning Algorithm",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Learning Rate",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Learning Rate Decay",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Learning vector quantization",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Least Absolute Deviation",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Least Mean Squares",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Least Squares Error",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Least Squares Regression",
-        "reference": "https://developers.google.com/machine-learning/glossary#least-squares-regression",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#least-squares-regression"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Lemmatizer",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Linear Discriminant Analysis",
-        "reference": "https://machinelearningcoban.com/2017/06/30/lda/",
+        "reference": [
+            "https://machinelearningcoban.com/2017/06/30/lda/"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Linear Model",
-        "reference": "https://developers.google.com/machine-learning/glossary#linear-model",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#linear-model"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Linear Programming",
-        "reference": "https://deepai.org/machine-learning-glossary-and-terms/linear-programming",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/linear-programming"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Linear Regression",
-        "reference": "https://developers.google.com/machine-learning/glossary#linear-regression",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#linear-regression"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Logic Programming",
-        "reference": "https://deepai.org/machine-learning-glossary-and-terms/logic-programming",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/logic-programming"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Logistic Regression",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Long Short-Term Memory (LSTM)",
-        "reference": "https://developers.google.com/machine-learning/glossary#long-short-term-memory-lstm",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#long-short-term-memory-lstm"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Lost Function",
-        "reference": "https://deepai.org/machine-learning-glossary-and-terms/loss-function",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/loss-function"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     }
 ]

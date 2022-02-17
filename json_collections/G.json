@@ -1,326 +1,350 @@
 [
     {
         "word": "Gains Curve",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Game Theory",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Game Trees",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Gated Neural Network",
-        "reference": "https://deepai.org/machine-learning-glossary-and-terms/gated-neural-network",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/gated-neural-network"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Gated Recurrent Unit",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Gaussian Distribution",
-        "reference": "https://deepai.org/machine-learning-glossary-and-terms/gaussian-distribution",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/gaussian-distribution"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Gaussian Mixture Model",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Gaussian Process",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Gaussian Process Latent-variable Model",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "General Game Playing",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "General Regression Neural Network (GRNN)",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Generalization Curve",
-        "reference": "https://developers.google.com/machine-learning/glossary#generalization-curve",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#generalization-curve"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Generalization Error",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Generalized Additive Model",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Generalized Delta Rule",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Generalized Linear Model",
-        "reference": "https://developers.google.com/machine-learning/glossary#generalized-linear-model",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#generalized-linear-model"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Generative Adversarial Networks",
-        "reference": "https://deepai.org/machine-learning-glossary-and-terms/generative-adversarial-network",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/generative-adversarial-network"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Generative Model",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Genetic Algorithm",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Genetic Programming",
-        "reference": "https://deepai.org/machine-learning-glossary-and-terms/genetic-programming",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/genetic-programming"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Gesture Recognition",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Gibbs Sampling",
-        "reference": "https://jwmi.github.io/BMS/chapter6-gibbs-sampling.pdf",
+        "reference": [
+            "https://jwmi.github.io/BMS/chapter6-gibbs-sampling.pdf"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Glowworm Swarm Optimization",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Gradient Accumulation",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Gradient Bagging",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Gradient Boosted Decision Tree",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Gradient Boosting",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Gradient Clipping",
-        "reference": "http://www.wildml.com/deep-learning-glossary/#rnn",
+        "reference": [
+            "http://www.wildml.com/deep-learning-glossary/#rnn"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Gradient Descent",
-        "reference": "https://developers.google.com/machine-learning/glossary#gradient-descent",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#gradient-descent"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Gradient Vanishing",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Granular Neural Networks",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Graph Convolutional Networks",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Greedy Evaluation",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Greedy Layer-Wise",
-        "reference": "https://cedar.buffalo.edu/~srihari/CSE676/15.1%20Greedy-Layerwise.pdf",
+        "reference": [
+            "https://cedar.buffalo.edu/~srihari/CSE676/15.1%20Greedy-Layerwise.pdf"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Grid Search",
-        "reference": "https://semanti.ca/blog/?glossary-of-machine-learning-terms#F",
+        "reference": [
+            "https://semanti.ca/blog/?glossary-of-machine-learning-terms#F"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Ground Truth",
-        "reference": "Pending",
+        "reference": [
+            "Pending"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     }
 ]

@@ -1,146 +1,158 @@
 [
     {
         "word": "Weak Artificial Intelligence",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Weak Classifier",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Weak supervision",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Weight (Artificial Neural Network)",
-        "reference": "https://deepai.org/machine-learning-glossary-and-terms/weight-artificial-neural-network",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/weight-artificial-neural-network"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Weight Decay",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Weight Sharing",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Weighted Alternating Least Squares (WALS)",
-        "reference": "https://developers.google.com/machine-learning/glossary#weighted-alternating-least-squares-wals",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#weighted-alternating-least-squares-wals"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Weighted Greedy (WG) algorithm",
-        "reference": "https://www.lri.fr/~pierres/donn%E9es/save/these/articles/lpr-queue/almuallim92efficient.pdf",
+        "reference": [
+            "https://www.lri.fr/~pierres/donn%E9es/save/these/articles/lpr-queue/almuallim92efficient.pdf"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Wide Model",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Word Embedding",
-        "reference": "https://developers.google.com/machine-learning/glossary#word-embedding",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#word-embedding"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Word Piece Model",
-        "reference": "https://paperswithcode.com/method/wordpiece",
+        "reference": [
+            "https://paperswithcode.com/method/wordpiece"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Word Sense Disambiguation",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Word Similarity",
-        "reference": "http://www.scholarpedia.org/article/Word_sense_disambiguation",
+        "reference": [
+            "http://www.scholarpedia.org/article/Word_sense_disambiguation"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Word vector",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Word-Context Matrix",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Word-Tag Model",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     }
 ]

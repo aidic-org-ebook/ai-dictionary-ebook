@@ -1,353 +1,387 @@
 [
     {
         "word": "Identity Function",
-        "reference": "https://en.wikipedia.org/wiki/Identity_function",
+        "reference": [
+            "https://en.wikipedia.org/wiki/Identity_function"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Identity Matrix",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Image Augmentation",
-        "reference": "https://towardsdatascience.com/image-augmentation-for-deep-learning-histogram-equalization-a71387f609b2",
+        "reference": [
+            "https://towardsdatascience.com/image-augmentation-for-deep-learning-histogram-equalization-a71387f609b2"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Image Domain Conversion",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Image Generator",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Image Pyramids",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "image Recognition",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Image Retrival",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Image Segmentation",
-        "reference": "https://www.v7labs.com/ml-glossary",
+        "reference": [
+            "https://www.v7labs.com/ml-glossary"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Imbalanced Dataset",
-        "reference": "https://datascience.foundation/sciencewhitepaper/understanding-imbalanced-datasets-and-techniques-for-handling-them",
+        "reference": [
+            "https://datascience.foundation/sciencewhitepaper/understanding-imbalanced-datasets-and-techniques-for-handling-them"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Imitation Learning",
-        "reference": "https://dl.acm.org/doi/10.1145/3054912",
+        "reference": [
+            "https://dl.acm.org/doi/10.1145/3054912"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Implicit Feedback",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Imputation (statistics)",
-        "reference": "https://en.wikipedia.org/wiki/Imputation_(statistics)",
+        "reference": [
+            "https://en.wikipedia.org/wiki/Imputation_(statistics)"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Inception Module",
-        "reference": "https://paperswithcode.com/method/inception-module",
+        "reference": [
+            "https://paperswithcode.com/method/inception-module"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Incremental Learning",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Incremental Training",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Inductive Bias",
-        "reference": "https://en.wikipedia.org/wiki/Inductive_bias",
+        "reference": [
+            "https://en.wikipedia.org/wiki/Inductive_bias"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Inductive Logic Programming",
-        "reference": "https://en.wikipedia.org/wiki/Inductive_logic_programming",
+        "reference": [
+            "https://en.wikipedia.org/wiki/Inductive_logic_programming"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Information Extraction",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Information Gain",
-        "reference": "https://machinelearningmastery.com/information-gain-and-mutual-information/",
+        "reference": [
+            "https://machinelearningmastery.com/information-gain-and-mutual-information/"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Information Processing Language",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Information Retrieval",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Information Visualization",
-        "reference": "https://www.omnisci.com/technical-glossary/information-visualization",
+        "reference": [
+            "https://www.omnisci.com/technical-glossary/information-visualization"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Initialisation",
-        "reference": "https://medium.com/@amarbudhiraja/towards-weight-initialization-in-deep-neural-networks-908d3d9f1e02",
+        "reference": [
+            "https://medium.com/@amarbudhiraja/towards-weight-initialization-in-deep-neural-networks-908d3d9f1e02"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Instance Segmentation",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Instantaneously trained neural networks",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Intelligence Amplification",
-        "reference": "https://en.wikipedia.org/wiki/Intelligence_amplification",
+        "reference": [
+            "https://en.wikipedia.org/wiki/Intelligence_amplification"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Intelligent Agent",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Intelligent Computer-Aided Instruction",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Intelligent Control",
-        "reference": "https://en.wikipedia.org/wiki/Intelligent_control",
+        "reference": [
+            "https://en.wikipedia.org/wiki/Intelligent_control"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Intelligent Personal Assistant",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Intelligent User Interfaces",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Intent Classification",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Interactive Dichotimiser 3 (ID3) algorithm",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Interactive Machine Learning",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Internal Covariate Shift",
-        "reference": "https://machinelearning.wtf/terms/internal-covariate-shift/",
+        "reference": [
+            "https://machinelearning.wtf/terms/internal-covariate-shift/"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Interpretable Machine Learning",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Inverted Dropout",
-        "reference": "https://machinelearning.wtf/terms/inverted-dropout/",
+        "reference": [
+            "https://machinelearning.wtf/terms/inverted-dropout/"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Item Matrix",
-        "reference": "https://developers.google.com/machine-learning/glossary#item-matrix",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#item-matrix"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     }
 ]

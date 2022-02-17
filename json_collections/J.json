@@ -1,20 +1,24 @@
 [
     {
         "word": "Jaccard Index",
-        "reference": "https://deepai.org/machine-learning-glossary-and-terms/jaccard-index",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/jaccard-index"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Junction Tree Algorithm",
-        "reference": "https://en.wikipedia.org/wiki/Junction_tree_algorithm",
+        "reference": [
+            "https://en.wikipedia.org/wiki/Junction_tree_algorithm"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     }
 ]

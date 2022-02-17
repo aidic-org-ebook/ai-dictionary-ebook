@@ -1,217 +1,233 @@
 [
     {
         "word": "Backbone Network",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Background subtraction",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Backpropagation",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Backpropagation Through Time",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Backward Chaining",
-        "reference": "https://www.section.io/engineering-education/forward-and-backward-chaining-in-ai/",
+        "reference": [
+            "https://www.section.io/engineering-education/forward-and-backward-chaining-in-ai/"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bag-of-Words Model",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Batch",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Batch Learning",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Batch Normalization",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Batch Size",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bayesian Algorithms",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bayesian Estimation",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bayesian Filter",
-        "reference": "https://link.springer.com/content/pdf/bbm%3A978-3-319-94878-2%2F1.pdf",
+        "reference": [
+            "https://link.springer.com/content/pdf/bbm%3A978-3-319-94878-2%2F1.pdf"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bayesian Inference",
-        "reference": "https://vi.wikipedia.org/wiki/Suy_lu\\%E1\\%BA\\%ADn_Bayes",
+        "reference": [
+            "https://vi.wikipedia.org/wiki/Suy_lu\\%E1\\%BA\\%ADn_Bayes"
+        ],
         "status": "Translated",
         "definition": "Suy luận Bayes",
-        "description": "Suy luận Bayes là một kiểu suy luận thống kê mà trong đó các quan sát hay bằng chứng được dùng để cập nhật hoặc suy luận ra xác suất cho việc một giả thuyết có thể là đúng.",
+        "description": [
+            "Suy luận Bayes là một kiểu suy luận thống kê mà trong đó các quan sát hay bằng chứng được dùng để cập nhật hoặc suy luận ra xác suất cho việc một giả thuyết có thể là đúng."
+        ],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bayesian Network",
-        "reference": "https://medium.com/eliiza-ai/bayesian-networks-combining-machine-learning-and-expert-knowledge-into-explainable-ai-efaf6f8e69b",
+        "reference": [
+            "https://medium.com/eliiza-ai/bayesian-networks-combining-machine-learning-and-expert-knowledge-into-explainable-ai-efaf6f8e69b"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bayesian Neural Network",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bayesian Optimization",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bayesian Programming",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bees Algorithm",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Behavior Tree",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Belief Function",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "BERT (Bidirectional Encoder Representations from Transformers)",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Beta Distribution",
-        "reference": "https://deepai.org/",
-        "status": "",
+        "reference": [
+            "https://deepai.org/"
+        ],
+        "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bias term",
-        "reference": "https://viblo.asia/p/khi-tat-ca-cac-phan-tich-hoc-may-deu-da-loi-thoi-overfitting-khong-ton-tai-XL6lAvDg5ek",
+        "reference": [
+            "https://viblo.asia/p/khi-tat-ca-cac-phan-tich-hoc-may-deu-da-loi-thoi-overfitting-khong-ton-tai-XL6lAvDg5ek"
+        ],
         "status": "Translated",
         "definition": "Hệ số điều chỉnh, Độ chệch",
-        "description": "Hệ số điều chỉnh, độ chệch là sự sai khác giữa trung bình dự đoán của mô hình chúng ta đang xây dựng với giá trị chính xác để dự đoán.",
+        "description": [
+            "Hệ số điều chỉnh, độ chệch là sự sai khác giữa trung bình dự đoán của mô hình chúng ta đang xây dựng với giá trị chính xác để dự đoán."
+        ],
         "figure": [
             {
                 "path": "figures/B_Bias_NCB_N1.png",
@@ -219,159 +235,161 @@
                 "width": 0.5
             }
         ],
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bias Vector",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bias-Variance Tradeoff",
-        "reference": "https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229",
+        "reference": [
+            "https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bidirectional Language Model",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bidirectional Recurrent Neural Networks",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Binary classification",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Binary Classifier",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Binary Hashing",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Biometric Recognition",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Blackboard System",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "BLEU (Bilingual Evaluation Understudy Score)",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Boltzmann Machine",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Boolean Neural Network",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Boosted Decision Tree",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bootstrap AGGregation",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Bounding Box",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Brain Technology",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Brain-Computer Interface (BCI)",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     }
 ]

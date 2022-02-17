@@ -1,56 +1,62 @@
 [
     {
         "word": "Q-learning",
-        "reference": "https://developers.google.com/machine-learning/glossary#q-learning",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#q-learning"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Qualification Problem",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Quantile Bucketing",
-        "reference": "https://developers.google.com/machine-learning/glossary#quantile-bucketing",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#quantile-bucketing"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Quantum Computation Theory",
-        "reference": "https://deepai.org/machine-learning-glossary-and-terms/quantum-computation-theory",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/quantum-computation-theory"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Query-based Case Retrieval",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Question Answering Machine",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     }
 ]

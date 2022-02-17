@@ -1,551 +1,596 @@
 [
     {
         "word": "D-separation",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Dark data",
-        "reference": "https://www.bmc.com/blogs/dark-data/",
+        "reference": [
+            "https://www.bmc.com/blogs/dark-data/"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Data Augmentation",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Data Cleaning",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Data Clustering",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Data Mining",
-        "reference": "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four",
+        "reference": [
+            "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Data Science",
-        "reference": "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four",
+        "reference": [
+            "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Data Transformation",
-        "reference": "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four",
+        "reference": [
+            "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Data-Efficient Learning",
-        "reference": "https://arxiv.org/abs/2102.12903",
+        "reference": [
+            "https://arxiv.org/abs/2102.12903"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Database",
-        "reference": "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four",
+        "reference": [
+            "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Dataframe",
-        "reference": "https://developers.google.com/machine-learning/glossary#dataframe",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#dataframe"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Dataset",
-        "reference": "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four",
+        "reference": [
+            "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Decision Attribute",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Decision Automation",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Decision Boundary",
-        "reference": "https://developers.google.com/machine-learning/glossary#decision-Boundary",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#decision-Boundary"
+        ],
         "status": "Translated",
         "definition": "Ranh giới quyết định",
-        "description": "Ranh giới quyết định là đường, mặt phẳng hay siêu mặt phẳng giúp phân chia vùng của các cụm (cluster) dữ liệu trong không gian. Trong 1 bài toán phân loại có thể cho nhiều ranh giới quyết định tương ứng với nhiều lớp khác nhau.",
+        "description": [
+            "Ranh giới quyết định là đường, mặt phẳng hay siêu mặt phẳng giúp phân chia vùng của các cụm (cluster) dữ liệu trong không gian.",
+            "Trong 1 bài toán phân loại có thể cho nhiều ranh giới quyết định tương ứng với nhiều lớp khác nhau."
+        ],
         "figure": [
             {
                 "path": "figures/D_Decision_boundary.png",
                 "width": 0.4
             }
         ],
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Decision List",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Decision Problem",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Decision Support System",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Decision Theory",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Decision Threshold",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Decision Tree",
-        "reference": "https://developers.google.com/machine-learning/glossary#decision-tree",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#decision-tree"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Decision Tree Learning",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Decoder",
-        "reference": "https://developers.google.com/machine-learning/glossary#d",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#d"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Deductive Classifier",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Deductive Reasoning",
-        "reference": "https://towardsdatascience.com/the-paradox-of-deductive-reason-in-data-science-featuring-donald-trumps-twitter-account-43839d4dda82",
+        "reference": [
+            "https://towardsdatascience.com/the-paradox-of-deductive-reason-in-data-science-featuring-donald-trumps-twitter-account-43839d4dda82"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Deep Belief Network",
-        "reference": "http://www.wildml.com/deep-learning-glossary/#rnn",
+        "reference": [
+            "http://www.wildml.com/deep-learning-glossary/#rnn"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Deep Bidirectional Recurrent Neural Network",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Deep Convolutional GAN (DC-GAN)",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Deep Features",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Deep Learning",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Deep Neural Network",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Deep Q-Learning",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Deep Reinforcement Learning",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Defensive Distillation",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Deferred Initialization",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Demographic Parity",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Denoising Autoencoders",
-        "reference": "https://deepai.org/machine-learning-glossary-and-terms/denoising-autoencoder",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/denoising-autoencoder"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Dense Feature",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Dense Layer",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Densely Connected Network",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Density-Based Spatial Clustering of Applications with Noise",
-        "reference": "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four",
+        "reference": [
+            "https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/#Four"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Dependency Parsing",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Depthwise Separable Convolutional Neural Network (sepCNN)",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Description Logic",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Descriptive Statistics",
-        "reference": "https://deepai.org/machine-learning-glossary-and-terms/descriptive-statistics",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/descriptive-statistics"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Dialogue System",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Digital Image",
-        "reference": "",
+        "reference": [],
         "status": "Translated",
         "definition": "Ảnh số",
-        "description": "Ảnh số là khái niệm thường dùng trong phân tích và xử lý hình ảnh, được định nghĩa là một ma trận các điểm ảnh với các giá trị dùng để mô tả ảnh gần với ảnh thật.",
+        "description": [
+            "Ảnh số là khái niệm thường dùng trong phân tích và xử lý hình ảnh, được định nghĩa là một ma trận các điểm ảnh với các giá trị dùng để mô tả ảnh gần với ảnh thật."
+        ],
         "figure": [
             {
                 "path": "figures/D_Digital_Image_CPD_N1.png"
             }
         ],
-        "tricks": "Trong C/C++ và Python, thư viện \\textit{{opencv}} thường được sử dụng để thao tác với ảnh số."
+        "tricks": [
+            "Trong C/C++ và Python, thư viện \\textit{{opencv}} thường được sử dụng để thao tác với ảnh số."
+        ]
     },
     {
         "word": "Dimensionality Reduction",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Directional Discrepancy algorithm",
-        "reference": "https://arxiv.org/pdf/2010.10454.pdf",
+        "reference": [
+            "https://arxiv.org/pdf/2010.10454.pdf"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Discrete Feature",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Discrete Random Variable",
-        "reference": "https://deepai.org/machine-learning-glossary-and-terms/discrete-random-variable",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/discrete-random-variable"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Discriminative Model",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Discriminator",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Disentangled Representation Learning",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Distributed Artificial Intelligence",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Distributed Decision Tree",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Downstream Task",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Dropout Regularization",
-        "reference": "https://medium.com/analytics-vidhya/a-simple-introduction-to-dropout-regularization-with-code-5279489dda1e",
+        "reference": [
+            "https://medium.com/analytics-vidhya/a-simple-introduction-to-dropout-regularization-with-code-5279489dda1e"
+        ],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Dynamic Belief Network",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     },
     {
         "word": "Dynamic Probabilistic Network",
-        "reference": "",
+        "reference": [],
         "status": "Pending",
         "definition": "",
-        "description": "",
+        "description": [],
         "figure": "",
-        "tricks": ""
+        "tricks": []
     }
 ]
