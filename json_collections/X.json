@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "word": "Extreme Gradient Boosting (XGBoost)",
+        "reference": "https://github.com/dmlc/xgboost",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    }
+]

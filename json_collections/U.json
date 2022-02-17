@@ -1,1 +1,92 @@
-[]
+[
+    {
+        "word": "Unavoidable Bias",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Underfitting",
+        "reference": "https://developers.google.com/machine-learning/glossary#underfitting",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Undersampling",
+        "reference": "https://developers.google.com/machine-learning/glossary#undersampling",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Unidirectional language model",
+        "reference": "https://developers.google.com/machine-learning/glossary#unidirectional-language-model",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Universal Approximation Theorem",
+        "reference": "https://towardsdatascience.com/neural-networks-and-the-universal-approximation-theorem-8a389a33d30a",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Universal Transformer",
+        "reference": "https://arxiv.org/abs/1807.03819",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Unlabeled data",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Unstructured data",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Unsupervised Learning",
+        "reference": "https://developers.google.com/machine-learning/glossary#unsupervised-machine-learning",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Unsupervised Machine Translation",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    }
+]

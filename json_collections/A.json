@@ -1,1 +1,713 @@
-[]
+[
+    {
+        "word": "Activation Function",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Activation Level",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Activation Level",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Active Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "AdaBoost (Adaptive Boosting)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Adadelta (Adaptive Delta)",
+        "reference": "http://arxiv.org/abs/1212.5701",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Adam (Adaptive Momentum)",
+        "reference": "https://arxiv.org/abs/1412.6980",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Adaptive Algorithm",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Adaptive Neuro Fuzzy Inference System (ANFIS)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Adaptive Resonance Theory (ART)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Adaptive Subgradient Methods",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Adversarial Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Adversarial Machine Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Affine Layer",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Affinity Analysis",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Affinity Matrix",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Affinity propagation clustering",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Agent Architecture",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Agent-based Model (ABM)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Agglomerative clustering",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "AI Accelerator",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "AI-Complete problem",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Algorithm Analysis",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Algorithmic Learning Theory",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Algorithmic Probability",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Alpha and Beta cutoffs",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Alpha-Beta Pruning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Ambient Intelligence (AmI)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Analogical Reasoning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Analogical Reasoning",
+        "reference": "https://arxiv.org/pdf/1902.00120.pdf",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Analytic geometry",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Anchor Box",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Anomaly Detection",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/anomaly-detection",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Answer Literal",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Approximate Inference",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Approximate Training",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Approximation Algorithm",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Approximation Theory",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Area Under Curve - AUC",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "area under the PR curve",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Area under the ROC Curve",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Argument Extraction",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Argumentation Framework",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Artificial Bee Colony",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Artificial Consciousness",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Artificial Data Synthesis",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Artificial General Intelligence (AGI)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Artificial Immune System (AIS)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Artificial Intelligence (AI)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Artificial Narrow Intelligence (ANI)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Artificial Neural Networks - ANN",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Artificial Neurons",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Artificial Superintelligence (ASI)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Artistic Style Transfer",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Association Learning",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/association-learning",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Association Rule Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Associative Memory",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Attention Mechanism",
+        "reference": "https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Attention Models",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Augmented Matrix",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Augmented Reality (AR)",
+        "reference": "https://towardsdatascience.com/enhancing-ar-with-machine-learning-9214d2da75a6",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Augmented Transition Network - ATN",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Autoencoder",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Automated Planning And Scheduling",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Automated Reasoning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Automatic Differentiation",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Automatic Interaction Detection",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Automatic Speech Recognition",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Automation Bias",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Autonomic Computing (AC)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Autonomous Car",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Autonomous Robot",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Autonomous Supervised Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Autonomous System",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Autonomous Vehicles",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Autoregessive Model",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/autoregressive-model",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Auxiliary Task Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Average Pooling",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Avoidable Bias",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    }
+]

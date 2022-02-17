@@ -1,1 +1,371 @@
-[]
+[
+    {
+        "word": "Radial Basis Function Networks",
+        "reference": "https://www.sciencedirect.com/topics/engineering/radial-basis-function-network",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Random Forest",
+        "reference": "https://developers.google.com/machine-learning/glossary#random-forest",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Random Sampling",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Random search",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Ranking Algorithm",
+        "reference": "https://www.sciencedirect.com/topics/computer-science/ranking-algorithm",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Reactive Machine",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Reasoning System",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Recall",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Receiver Operating Characteristic (ROC) Curve",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Recommendation System",
+        "reference": "https://developers.google.com/machine-learning/glossary#recommendation-system",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Recommender System",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Reconstruction Entropy",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Reconstruction Error",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Rectified Linear Unit (ReLU)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Recurrent Neural Network",
+        "reference": "https://developers.google.com/machine-learning/glossary#recurrent-neural-network",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Reduce Learning Rate On Plateau",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Region Of Interest",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Regression Model",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Regressor",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Regularization",
+        "reference": "https://docs.microsoft.com/en-us/dotnet/machine-learning/resources/glossary",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Regularization Rate",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Reinforcement Learning (RL)",
+        "reference": "https://developers.google.com/machine-learning/glossary#reinforcement-learning-rl",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Relational On-line Analytical Processing (ROLAP)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Relative Loss",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Relief algorithm",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Representation Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Representational State Transfer (RST)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Reservoir Computing",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Residual Connection",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Residual Layer",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Residual Neural Network",
+        "reference": "https://link.springer.com/content/pdf/bbm%3A978-3-319-94878-2%2F1.pdf",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Response Modeling",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Restricted Boltzman Machine",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Resubstitution accuracy (error/loss)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Reward Function",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Ridge regression",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Ridge Regularization",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Root Mean Squared Error (RMSE)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Root Mean Squared Propagation",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Row-Echelon Form",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Rule-based System",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    }
+]

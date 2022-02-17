@@ -1,1 +1,596 @@
-[]
+[
+    {
+        "word": "Candidae Hidden State",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Candidate Sampling",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Capsule Networks",
+        "reference": "https://www.frontiersin.org/articles/10.3389/fphar.2019.01631/full",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Catastrophic Forgetting",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Categorical Feature Encoding",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Causal Language Model",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Central Target Word",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Centroid-based Clustering",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Chain Rule",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/chain-rule",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Character Recognition",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Chatbot",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Chi-square automatic interaction detection (CHAID)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Class-imbalanced Dataset",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Classification",
+        "reference": "https://docs.microsoft.com/en-us/dotnet/machine-learning/resources/glossary",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Classification Threshold",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Classifier",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/classifier",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Classifier Ensembles",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Cluster Analysis",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Clustering Algorithms",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Co-adaptation",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Co-training",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Codebook Vector",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Cognitive Architecture",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Cognitive Computing",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Cognitive Robotics",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Cognitive Science",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Cold-Start",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Collaborative Filtering",
+        "reference": "https://codeburst.io/explanation-of-recommender-systems-in-information-retrieval-13077e1d916c",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Combinatorial Optimization",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/combinatorial-optimization",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Committee Machine",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Computational Creativity",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Computational Humor",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Computational Intelligence",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Computational Learning Theory",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/computational-learning-theory",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Computational Steering",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Computer Vision",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Concept Drift",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Conceptual Dependency Theory",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Conditional GAN",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Confusion Matrix",
+        "reference": "https://deepai.org/machine-learning-glossary-and-terms/confusion-matrix",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Connectionist Temporal Classification (CTC)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Constrained Conditional Model",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Constrained Optimization",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Constraint Logic Programming",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Content Loss",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Context Vector",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Continuous Bag of Words (CBOW)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Continuous Optimization",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Contractive Autoencoder",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Contrastive Divergence Learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Conversational Agent",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Conversational User Interfaces",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Convex Optimization",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Convolutional Filter",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Convolutional Layer",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Convolutional Neural Network -CNN",
+        "reference": "http://www.wildml.com/deep-learning-glossary/",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Convolutional seq2seq learning",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Cooperative distributed problem solving",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Coreference Resolution",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Cost function",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Critic (Reinforcement Learning)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Critic (WGAN)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Cross Entropy",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Cross-validation",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Cumulative Accuracy Profile (CAP)",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    },
+    {
+        "word": "Curse of Dimensionality",
+        "reference": "",
+        "status": "Pending",
+        "definition": "",
+        "description": "",
+        "figure": "",
+        "tricks": ""
+    }
+]
