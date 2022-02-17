@@ -47,6 +47,6 @@ if __name__ == "__main__":
         json_path = 'json_collections/' + character + '.json'
 
         if exists(md_path):
-            convert_md_to_json(md_path, json_path, headers=["word", "reference", "status", "definition", "desciption", "figure", "tricks"])
+            convert_md_to_json(md_path, json_path, headers=["word", "reference", "status", "definition", "description", "figure", "tricks"])
         else:
             print(f"{md_path} does not exists. Proceeding ...")

@@ -29,9 +29,9 @@ def convert_json_to_md():
                 if word['definition']:
                     md_file.write(f"{word['definition']}\n")
 
-                md_file.write(f"### Desciption\n")
-                if word['desciption']:
-                    md_file.write(f"{word['desciption']}\n")
+                md_file.write(f"### Description\n")
+                if word['description']:
+                    md_file.write(f"{word['description']}\n")
 
                 md_file.write(f"### Figure\n")
                 if word['figure']:

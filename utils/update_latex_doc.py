@@ -33,9 +33,9 @@ def update_latex_doc(tex_path, data):
                     f"Tham khảo: \\footnote{{ \\url{{{word['reference']}}} }}"
                 )
 
-            if word['desciption']:
+            if word['description']:
                 line.append(
-                    f"\\subsection*{{Định nghĩa:}}\n{word['desciption']}"
+                    f"\\subsection*{{Định nghĩa:}}\n{word['description']}"
                 )
 
             if word['figure']:
