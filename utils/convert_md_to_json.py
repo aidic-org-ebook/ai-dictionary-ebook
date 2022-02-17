@@ -31,8 +31,7 @@ def convert_md_to_json(md_path, json_path, headers):
             if data['figure']:
                 data['figure'] = json.loads(data['figure'])
 
-            if data['status'] == 'Translated':
-                result.append(data)
+            result.append(data)
 
             line = md_file.readline()
 

@@ -23,38 +23,39 @@ def update_latex_doc(tex_path, data):
     """
     with open(tex_path, mode='w', encoding='utf8') as tex_file:
         for word in data:
-            line = []
-            line.append(
-                f"\\section*{{\\huge \\textcolor{{Red}}{{ {word['word']} }} \\small \\textit{{ {word['definition']} }} }}"
-            )
-
-            if word['reference']:
+            if word['status'] == 'Translated':
+                line = []
                 line.append(
-                    f"Tham khảo: \\footnote{{ \\url{{{word['reference']}}} }}"
+                    f"\\section*{{\\huge \\textcolor{{Red}}{{ {word['word']} }} \\small \\textit{{ {word['definition']} }} }}"
                 )
 
-            if word['description']:
-                line.append(
-                    f"\\subsection*{{Định nghĩa:}}\n{word['description']}"
-                )
+                if word['reference']:
+                    line.append(
+                        f"Tham khảo: \\footnote{{ \\url{{{word['reference']}}} }}"
+                    )
 
-            if word['figure']:
-                for idx, fig in enumerate(word['figure']):
-                    figure_format = "\\begin{{figure}}[!h]\n\t\\centering\n"
-                    figure_format += f"\t\\includegraphics[width={fig['width'] if 'width' in fig else 0.75}\\linewidth]{{ {fig['path']} }}\n"
-                    if 'caption' in fig:
-                        figure_format += f"\t\\caption{{ {fig['caption']} }}"
-                    figure_format += f"\\label{{fig:{word['word'].lower()}_{idx+1}}}\n\\end{{figure}}"
-                    line.append(figure_format)
+                if word['description']:
+                    line.append(
+                        f"\\subsection*{{Định nghĩa:}}\n{word['description']}"
+                    )
 
-            if word['tricks']:
-                line.append(
-                    f"\\subsection*{{Mẹo nhỏ:}}\n{word['tricks']}"
-                )
+                if word['figure']:
+                    for idx, fig in enumerate(word['figure']):
+                        figure_format = "\\begin{{figure}}[!h]\n\t\\centering\n"
+                        figure_format += f"\t\\includegraphics[width={fig['width'] if 'width' in fig else 0.75}\\linewidth]{{ {fig['path']} }}\n"
+                        if 'caption' in fig:
+                            figure_format += f"\t\\caption{{ {fig['caption']} }}"
+                        figure_format += f"\\label{{fig:{word['word'].lower()}_{idx+1}}}\n\\end{{figure}}"
+                        line.append(figure_format)
 
-            tex_file.write('\n'.join(line))
-            tex_file.write('\n')
-            tex_file.write('\n')
+                if word['tricks']:
+                    line.append(
+                        f"\\subsection*{{Mẹo nhỏ:}}\n{word['tricks']}"
+                    )
+
+                tex_file.write('\n'.join(line))
+                tex_file.write('\n')
+                tex_file.write('\n')
 
 
 if __name__ == "__main__":
