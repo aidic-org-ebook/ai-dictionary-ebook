@@ -30,14 +30,16 @@ def update_latex_doc(tex_path, data):
                 )
 
                 if word['reference']:
-                    line.append(
-                        f"Tham khảo: \\footnote{{ \\url{{{word['reference']}}} }}"
-                    )
+                    references = "Tham khảo:"
+                    for reference in word["reference"]:
+                        references += f" \\footnote{{ \\url{{{ reference }}} }}"
+                    line.append(references)
 
                 if word['description']:
-                    line.append(
-                        f"\\subsection*{{Định nghĩa:}}\n{word['description']}"
-                    )
+                    descriptions = "\\subsection*{Định nghĩa:}"
+                    for sentence in word["description"]:
+                        descriptions += f"\n{sentence}"
+                    line.append(descriptions)
 
                 if word['figure']:
                     for idx, fig in enumerate(word['figure']):
@@ -49,9 +51,10 @@ def update_latex_doc(tex_path, data):
                         line.append(figure_format)
 
                 if word['tricks']:
-                    line.append(
-                        f"\\subsection*{{Mẹo nhỏ:}}\n{word['tricks']}"
-                    )
+                    tricks = "\\subsection*{Mẹo nhỏ:}"
+                    for sentence in word["tricks"]:
+                        tricks += f"\n{sentence}"
+                    line.append(tricks)
 
                 tex_file.write('\n'.join(line))
                 tex_file.write('\n')

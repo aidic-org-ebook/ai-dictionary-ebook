@@ -18,18 +18,62 @@ def convert_md_to_json(md_path, json_path, headers):
         while line:
             data = {}
 
-            data[headers[0]] = line.strip(" #\n")
+            data["word"] = line.strip(" #\n")
             line = md_file.readline()
-            for header in headers[1:]:
+
+            if line == "### Reference\n":
+                data["reference"] = []
+
+                line = md_file.readline()
+
+                while line[:3] != "###":
+                    data["reference"].append(line.strip(" \n"))
+                    line = md_file.readline()
+
+            if line == "### Status\n":
+                line = md_file.readline()
+                if line[:3] != "###":
+                    data["status"] = line.strip(" \n")
+                    line = md_file.readline()
+                else:
+                    data["status"] = "Pending"  # Default to Pending status
+
+            if line == "### Definition\n":
+                line = md_file.readline()
+                if line[:3] != "###":
+                    data["definition"] = line.strip(" \n")
+                    line = md_file.readline()
+                else:
+                    data["definition"] = ""  # Default to empty
+
+            if line == "### Description\n":
+                data["description"] = []
+
+                line = md_file.readline()
+
+                while line[:3] != "###":
+                    data["description"].append(line.strip(" \n"))
+                    line = md_file.readline()
+
+            if line == "### Figure\n":
                 content = []
                 line = md_file.readline()
-                while line[:3] != "###" and line != "\n":
+                while line[:3] != "###":
                     content.append(line.strip(" \n"))
                     line = md_file.readline()
-                data[header] = ' '.join(content)
+                data['figure'] = ' '.join(content)
 
-            if data['figure']:
-                data['figure'] = json.loads(data['figure'])
+                if data['figure']:
+                    data['figure'] = json.loads(data['figure'])
+
+            if line == "### Tricks\n":
+                data["tricks"] = []
+
+                line = md_file.readline()
+
+                while line != "\n":
+                    data["tricks"].append(line.strip(" \n"))
+                    line = md_file.readline()
 
             result.append(data)
 

@@ -12,7 +12,8 @@ def convert_json_to_md(json_path, md_path):
 
             md_file.write(f"### Reference\n")
             if word['reference']:
-                md_file.write(f"{word['reference']}\n")
+                for reference in word["reference"]:
+                    md_file.write(f"{reference}\n")
 
             md_file.write(f"### Status\n")
             if word['status']:
@@ -24,7 +25,8 @@ def convert_json_to_md(json_path, md_path):
 
             md_file.write(f"### Description\n")
             if word['description']:
-                md_file.write(f"{word['description']}\n")
+                for sentence in word["description"]:
+                    md_file.write(f"{sentence}\n")
 
             md_file.write(f"### Figure\n")
             if word['figure']:
@@ -32,7 +34,8 @@ def convert_json_to_md(json_path, md_path):
 
             md_file.write(f"### Tricks\n")
             if word['tricks']:
-                md_file.write(f"{word['tricks']}\n")
+                for sentence in word["tricks"]:
+                    md_file.write(f"{sentence}\n")
 
             md_file.write("\n")
 
