@@ -16,27 +16,14 @@ Hàm kích hoạt được minh họa bên trên, ReLU, chỉ nên được dùn
 
 # Activation Level
 ### Reference
-### Status
-Pending
-### Definition
-### Description
-### Figure
-### Tricks
-
-# Activation Level
-### Reference
 https://deepai.org/machine-learning-glossary-and-terms/activation-level
 ### Status
 Translated
 ### Definition
-<<<<<<< HEAD
-### Description
-=======
 Mức kích hoạt
 ### Description
 Mức kích hoạt trong mạng nơ-ron nhân tạo là kết quả của hàm kích hoạt (Activation Function).
 Kết quả này sau đó được sử dụng làm đầu vào cho nơ-ron kế tiếp.
->>>>>>> origin/main
 ### Figure
 ### Tricks
 
