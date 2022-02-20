@@ -1,1 +1,29 @@
-[]
+[
+    {
+        "word": "Z-test",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Zero Shot Learning",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Zero-one Loss",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    }
+]

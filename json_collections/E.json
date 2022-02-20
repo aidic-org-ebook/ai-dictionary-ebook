@@ -1,1 +1,426 @@
-[]
+[
+    {
+        "word": "Eager Learning",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Early Stopping",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/early-stopping-machine-learning"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Echo State Network",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Edge Artificial Intelligence",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Eigendecomposition",
+        "reference": [
+            "Sách Mathematics for Machine Learning, trang 115"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Eigenspace",
+        "reference": [
+            "Sách Mathematics for Machine Learning, trang 106"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Eigenvalue",
+        "reference": [
+            "Sách Mathematics for Machine Learning, trang 105"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Elastic Net",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Elastic Net Regularization",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Elenment-wise",
+        "reference": [
+            "Sách Deep learning cơ bản, trang 56"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Embedding",
+        "reference": [
+            "https://www.ceva-dsp.com/ourblog/cdnn-generating-an-embedded-neural-network-at-the-push-of-a-button-2/"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Embedding Space",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Embodied Agent",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Embodied Artificial Intelligence",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Embodied Cognitive Science",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Emotion Artificial Intelligence",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Empirical Risk Minimization",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Encoder Decoder Architecture",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "End-to-End Learning",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Energy-based Models",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/energy-based-models"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Ensemble",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#ensemble"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Ensemble Learning",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Ensemble Pridiction",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Entailment",
+        "reference": [
+            "https://vi.strephonsays.com/entailment-and-vs-presupposition-7829#menu-2"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Epoch",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Epsilon Greedy Policy",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Equalized Odds",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Error Analysis",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Error Backpropagation Learning Algorithm",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/error-backpropagation-learning-algorithm"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Error-Driven Learning",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Estimator",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Ethics Of Artificial Intelligence",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Euclidean Distance",
+        "reference": [
+            "Sách Mathematics for Machine Learning, trang 75"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Evaluation Metric",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Evolutionary Algorithm",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Evolutionary Computation",
+        "reference": [
+            "https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence#E"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Evolving Classification Function",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Expectation Maximization",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/expectation-maximization"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Explainable Artificial Intelligence",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Explanation-based Learning",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Exploding Gradient",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/exploding-gradient-problem"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Exponential Linear Unit",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Exponential Weighted Moving Average",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Extractive Sentence Summarization",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    }
+]

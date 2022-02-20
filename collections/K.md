@@ -4,7 +4,7 @@ https://machinelearningmastery.com/k-fold-cross-validation/
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -14,7 +14,7 @@ https://developers.google.com/machine-learning/glossary#k-means
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -23,7 +23,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -33,7 +33,7 @@ https://developers.google.com/machine-learning/glossary#k-median
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -43,7 +43,7 @@ https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighb
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -53,7 +53,7 @@ https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -63,7 +63,7 @@ https://en.wikipedia.org/wiki/Katz%27s_back-off_model
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -72,7 +72,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -81,7 +81,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -90,7 +90,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -99,7 +99,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -109,7 +109,7 @@ https://developers.google.com/machine-learning/glossary#kernel-support-vector-ma
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -119,7 +119,7 @@ https://arxiv.org/abs/2006.05525
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -128,7 +128,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -138,7 +138,7 @@ https://link.springer.com/content/pdf/bbm%3A978-3-319-94878-2%2F1.pdf
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 

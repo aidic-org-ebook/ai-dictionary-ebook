@@ -1,1 +1,640 @@
-[]
+[
+    {
+        "word": "Sampling Bias",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Scale Invariant Feature Transform (SIFT)",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Scale-Dot Product Attention",
+        "reference": [
+            "https://paperswithcode.com/method/scaled"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Self Organizing Map (SOM)",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Self-attention",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Self-Supervised Learning",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#self-supervised-learning"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Self-Tuning",
+        "reference": [
+            "https://arxiv.org/abs/2102.12903"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Semantic Analysis",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Semantic Network",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Semantic Segmentation",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Semi-Supervised Learning",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#semi-supervised-learning"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Sensitivity",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Sentiment Classification",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Sequence Model",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Sequence-Aware Recommender System",
+        "reference": [
+            "https://arxiv.org/abs/1802.08452"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Sequential Covering Rule Building",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/sequential-covering-rule-building"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Sigmoid Function",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#sigmoid-function"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Similarity Learning",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Simple Greedy (SG) algorithm",
+        "reference": [
+            "https://www.lri.fr/~pierres/donn%E9es/save/these/articles/lpr-queue/almuallim92efficient.pdf"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Simulated Annealing",
+        "reference": [
+            "https://en.wikipedia.org/wiki/Simulated_annealing"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Singular Value Decomposition",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Situated Approach",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Skip-Gram",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Soft Margin Support Vector Margin",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Softmax Function",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Softmax regression",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Software Agent",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Spam Detection",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Sparse Connectivity",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Sparse Feature",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Sparse Representation",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#sparse-representation"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Sparse Weight",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Spatial Pooling",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Spatial Transformer Network",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Spatial-temporal Reasoning",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Specificity",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Speech Recognition",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Speech Synthesis",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Speech Translation",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Speech Verification",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Speeded Up Robust Features (SURF)",
+        "reference": [
+            "https://en.wikipedia.org/wiki/Speeded_up_robust_features"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Spiking Neural Network",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Spoken Dialog System",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Spreading Activation",
+        "reference": [
+            "https://en.wikipedia.org/wiki/Spreading_activation"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Squashing Function",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Staged Training",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#staged-training"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Standard Deviation",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/standard-deviation"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "State Space Search",
+        "reference": [
+            "https://en.wikipedia.org/wiki/State_space_search"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "State-action Value function",
+        "reference": [
+            "https://www.oreilly.com/library/view/hands-on-reinforcement-learning/9781788836524/4a26c40f-9d5f-4fdd-804e-cf66b22005ba.xhtml"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Statistical Learning Theory",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/statistical-learning-theory"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Statistical Relational Learning",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Stochastic Gradient Descent",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/stochastic-gradient-descent"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Stride (Machine Learning)",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/stride"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Strong Artificial general Intelligence",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Structural Risk Minimization (SRM)",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Structured Data",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Style Reconstruction Loss",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Style Transfer",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Subword Regularization",
+        "reference": [
+            "https://arxiv.org/abs/1804.10959"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Supervised Learning",
+        "reference": [
+            "https://link.springer.com/content/pdf/bbm%3A978-3-319-94878-2%2F1.pdf"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Support Vector Machines",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Swarm Intelligence",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Symbolic Artificial Intelligence",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Synapse",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/synapse"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Synthetic Data",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Synthetic Feature",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    }
+]

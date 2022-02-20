@@ -4,7 +4,7 @@ https://deepai.org/machine-learning-glossary-and-terms/jaccard-index
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -14,7 +14,7 @@ https://en.wikipedia.org/wiki/Junction_tree_algorithm
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
