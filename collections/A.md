@@ -15,8 +15,8 @@ Translated
 ### Definition
 Mức kích hoạt
 ### Desciption
-Mức kích hoạt trong mạng nơ ron nhân tạo là kết quả của hàm kích hoạt (Activation Function).
-Kết quả này sau đó được sử dụng làm đầu vào cho neuron kế tiếp.
+Mức kích hoạt trong mạng nơ-ron nhân tạo là kết quả của hàm kích hoạt (Activation Function).
+Kết quả này sau đó được sử dụng làm đầu vào cho nơ-ron kế tiếp.
 ### Figure
 ### Tricks
 
