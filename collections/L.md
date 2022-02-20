@@ -4,7 +4,7 @@ https://afteracademy.com/blog/what-are-l1-and-l2-loss-functions
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -13,7 +13,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -23,7 +23,7 @@ https://afteracademy.com/blog/what-are-l1-and-l2-loss-functions
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -32,7 +32,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -41,7 +41,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -50,7 +50,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -59,7 +59,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -68,7 +68,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -78,7 +78,7 @@ https://deepai.org/machine-learning-glossary-and-terms/lasso-regression
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -87,7 +87,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -96,7 +96,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -105,7 +105,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -114,7 +114,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -123,7 +123,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -132,7 +132,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -141,7 +141,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -150,7 +150,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -159,7 +159,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -168,7 +168,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -177,7 +177,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -187,7 +187,7 @@ https://developers.google.com/machine-learning/glossary#least-squares-regression
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -196,7 +196,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -206,7 +206,7 @@ https://machinelearningcoban.com/2017/06/30/lda/
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -216,7 +216,7 @@ https://developers.google.com/machine-learning/glossary#linear-model
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -226,7 +226,7 @@ https://deepai.org/machine-learning-glossary-and-terms/linear-programming
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -236,7 +236,7 @@ https://developers.google.com/machine-learning/glossary#linear-regression
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -246,7 +246,7 @@ https://deepai.org/machine-learning-glossary-and-terms/logic-programming
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -255,7 +255,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -265,7 +265,7 @@ https://developers.google.com/machine-learning/glossary#long-short-term-memory-l
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -275,7 +275,7 @@ https://deepai.org/machine-learning-glossary-and-terms/loss-function
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 

@@ -3,7 +3,7 @@
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -13,7 +13,7 @@ https://developers.google.com/machine-learning/glossary#underfitting
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -23,7 +23,7 @@ https://developers.google.com/machine-learning/glossary#undersampling
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -33,7 +33,7 @@ https://developers.google.com/machine-learning/glossary#unidirectional-language-
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -43,7 +43,7 @@ https://towardsdatascience.com/neural-networks-and-the-universal-approximation-t
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -53,7 +53,7 @@ https://arxiv.org/abs/1807.03819
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -62,7 +62,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -71,7 +71,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -81,7 +81,7 @@ https://developers.google.com/machine-learning/glossary#unsupervised-machine-lea
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -90,7 +90,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 

@@ -3,7 +3,7 @@
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -12,7 +12,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -21,7 +21,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -31,7 +31,7 @@ https://deepai.org/machine-learning-glossary-and-terms/gated-neural-network
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -40,7 +40,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -50,7 +50,7 @@ https://deepai.org/machine-learning-glossary-and-terms/gaussian-distribution
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -59,7 +59,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -68,7 +68,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -77,7 +77,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -86,7 +86,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -95,7 +95,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -105,7 +105,7 @@ https://developers.google.com/machine-learning/glossary#generalization-curve
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -114,7 +114,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -123,7 +123,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -132,7 +132,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -142,7 +142,7 @@ https://developers.google.com/machine-learning/glossary#generalized-linear-model
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -152,7 +152,7 @@ https://deepai.org/machine-learning-glossary-and-terms/generative-adversarial-ne
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -161,7 +161,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -170,7 +170,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -180,7 +180,7 @@ https://deepai.org/machine-learning-glossary-and-terms/genetic-programming
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -189,7 +189,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -199,7 +199,7 @@ https://jwmi.github.io/BMS/chapter6-gibbs-sampling.pdf
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -208,7 +208,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -217,7 +217,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -226,7 +226,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -235,7 +235,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -244,7 +244,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -254,7 +254,7 @@ http://www.wildml.com/deep-learning-glossary/#rnn
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -264,7 +264,7 @@ https://developers.google.com/machine-learning/glossary#gradient-descent
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -273,7 +273,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -282,7 +282,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -291,7 +291,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -300,7 +300,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -310,7 +310,7 @@ https://cedar.buffalo.edu/~srihari/CSE676/15.1%20Greedy-Layerwise.pdf
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -320,7 +320,7 @@ https://semanti.ca/blog/?glossary-of-machine-learning-terms#F
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -330,7 +330,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 

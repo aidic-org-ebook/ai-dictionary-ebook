@@ -3,7 +3,7 @@
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -12,7 +12,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -21,7 +21,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -31,7 +31,7 @@ https://deepai.org/machine-learning-glossary-and-terms/harmonic-mean
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -40,7 +40,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -49,7 +49,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -58,7 +58,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -68,7 +68,7 @@ https://www.sciencedirect.com/science/article/pii/S2351978918311351
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -77,7 +77,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -86,7 +86,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -96,7 +96,7 @@ Sách Deep learning cơ bản, trang 85
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -105,7 +105,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -114,7 +114,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -123,7 +123,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -132,7 +132,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -141,7 +141,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -151,7 +151,7 @@ https://developers.google.com/machine-learning/glossary#hierarchical_clustering
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -160,7 +160,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -169,7 +169,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -178,7 +178,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -188,7 +188,7 @@ https://deepai.org/machine-learning-glossary-and-terms/high-dimensional-statisti
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -198,7 +198,7 @@ https://arxiv.org/pdf/1505.00387.pdf
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -208,7 +208,7 @@ https://developers.google.com/machine-learning/glossary#hinge-loss
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -218,7 +218,7 @@ https://vietquality.vn/nhung-dieu-can-biet-ve-histogram-diagram-bieu-do-phan-bo-
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -227,7 +227,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -237,7 +237,7 @@ https://www.scribbr.com/frequently-asked-questions/what-is-homoscedasticity/
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -246,7 +246,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -255,7 +255,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -264,7 +264,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -274,7 +274,7 @@ https://en.wikipedia.org/wiki/Human-based_computation
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -283,7 +283,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -292,7 +292,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -302,7 +302,7 @@ https://arxiv.org/abs/1609.09106
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -312,7 +312,7 @@ https://deepai.org/machine-learning-glossary-and-terms/hyperparameter
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -322,7 +322,7 @@ https://cs231n.github.io/neural-networks-3/
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -331,7 +331,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -341,7 +341,7 @@ https://deepai.org/machine-learning-glossary-and-terms/hyperplane
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -351,7 +351,7 @@ https://www.investopedia.com/terms/h/hypothesistesting.asp#:~:text=What%20Is%20H
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 

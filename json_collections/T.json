@@ -1,1 +1,210 @@
-[]
+[
+    {
+        "word": "Tabular Q-learning",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Target Network",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Target Output",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/target-output"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Temporal Data",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Temporal Difference Learning",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Tensor Network Theory",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Test Dataset",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Text Classification",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Text‐to‐Speech",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Topic Modeling",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Training dataset",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Training Error",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Training Pattern",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/training-pattern"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Transfer Learning",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#transfer-learning"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Transformer Based Model",
+        "reference": [
+            "https://developers.google.com/machine-learning/glossary#transformer"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Transformer Neural Network",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "True Gradient Descent",
+        "reference": [
+            "https://deepai.org/machine-learning-glossary-and-terms/true-gradient-descent"
+        ],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "True Negative",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "True Positive",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Truncated Backpropagation Through Time",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Turing Machine",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    },
+    {
+        "word": "Turing Test",
+        "reference": [],
+        "status": "Pending",
+        "definition": "",
+        "description": [],
+        "figure": "",
+        "tricks": []
+    }
+]

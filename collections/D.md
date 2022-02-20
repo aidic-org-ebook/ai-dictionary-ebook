@@ -3,7 +3,7 @@
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -13,7 +13,7 @@ https://www.bmc.com/blogs/dark-data/
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -22,7 +22,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -31,7 +31,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -40,7 +40,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -50,7 +50,7 @@ https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learni
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -60,7 +60,7 @@ https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learni
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -70,7 +70,7 @@ https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learni
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -80,7 +80,7 @@ https://arxiv.org/abs/2102.12903
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -90,7 +90,7 @@ https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learni
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -100,7 +100,7 @@ https://developers.google.com/machine-learning/glossary#dataframe
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -110,7 +110,7 @@ https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learni
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -119,7 +119,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -128,7 +128,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -139,16 +139,11 @@ https://developers.google.com/machine-learning/glossary#decision-Boundary
 Translated
 ### Definition
 Ranh giới quyết định
-### Desciption
+### Description
 Ranh giới quyết định là đường, mặt phẳng hay siêu mặt phẳng giúp phân chia vùng của các cụm (cluster) dữ liệu trong không gian.
 Trong 1 bài toán phân loại có thể cho nhiều ranh giới quyết định tương ứng với nhiều lớp khác nhau.
 ### Figure
-[
-    {
-        "path": "figures/D_Decision_boundary.png",
-        "width": 0.4
-    }
-]
+[{"path": "figures/D_Decision_boundary.png", "width": 0.4}]
 ### Tricks
 
 # Decision List
@@ -156,7 +151,7 @@ Trong 1 bài toán phân loại có thể cho nhiều ranh giới quyết địn
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -165,7 +160,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -174,7 +169,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -183,7 +178,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -192,7 +187,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -202,7 +197,7 @@ https://developers.google.com/machine-learning/glossary#decision-tree
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -211,7 +206,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -221,7 +216,7 @@ https://developers.google.com/machine-learning/glossary#d
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -230,7 +225,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -240,7 +235,7 @@ https://towardsdatascience.com/the-paradox-of-deductive-reason-in-data-science-f
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -250,7 +245,7 @@ http://www.wildml.com/deep-learning-glossary/#rnn
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -259,7 +254,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -268,7 +263,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -277,7 +272,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -286,7 +281,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -295,7 +290,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -304,7 +299,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -313,7 +308,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -322,7 +317,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -331,7 +326,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -340,7 +335,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -350,7 +345,7 @@ https://deepai.org/machine-learning-glossary-and-terms/denoising-autoencoder
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -359,7 +354,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -368,7 +363,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -377,7 +372,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -387,7 +382,7 @@ https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learni
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -396,7 +391,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -405,7 +400,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -414,7 +409,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -424,7 +419,7 @@ https://deepai.org/machine-learning-glossary-and-terms/descriptive-statistics
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -433,7 +428,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -443,7 +438,7 @@ Pending
 Translated
 ### Definition
 Ảnh số
-### Desciption
+### Description
 Ảnh số là khái niệm thường dùng trong phân tích và xử lý hình ảnh, được định nghĩa là một ma trận các điểm ảnh với các giá trị dùng để mô tả ảnh gần với ảnh thật.
 ### Figure
 [{"path": "figures/D_Digital_Image_CPD_N1.png"}]
@@ -455,7 +450,7 @@ Trong C/C++ và Python, thư viện \textit{{opencv}} thường được sử d�
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -465,7 +460,7 @@ https://arxiv.org/pdf/2010.10454.pdf
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -474,7 +469,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -484,7 +479,7 @@ https://deepai.org/machine-learning-glossary-and-terms/discrete-random-variable
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -493,7 +488,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -502,7 +497,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -511,7 +506,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -520,7 +515,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -529,7 +524,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -538,7 +533,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -548,7 +543,7 @@ https://medium.com/analytics-vidhya/a-simple-introduction-to-dropout-regularizat
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -557,7 +552,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
@@ -566,7 +561,7 @@ Pending
 ### Status
 Pending
 ### Definition
-### Desciption
+### Description
 ### Figure
 ### Tricks
 
