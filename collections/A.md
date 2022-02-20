@@ -9,19 +9,14 @@ Pending
 
 # Activation Level
 ### Reference
+https://deepai.org/machine-learning-glossary-and-terms/activation-level
 ### Status
-Pending
+Translated
 ### Definition
+Mức kích hoạt
 ### Desciption
-### Figure
-### Tricks
-
-# Activation Level
-### Reference
-### Status
-Pending
-### Definition
-### Desciption
+Mức kích hoạt trong mạng nơ-ron nhân tạo là kết quả của hàm kích hoạt (Activation Function).
+Kết quả này sau đó được sử dụng làm đầu vào cho nơ-ron kế tiếp.
 ### Figure
 ### Tricks
 
