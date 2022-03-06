@@ -71,6 +71,15 @@ Pending
 ### Figure
 ### Tricks
 
+# Batch Mode Active Learning 
+### Reference
+### Status
+Pending
+### Definition
+### Description
+### Figure
+### Tricks
+
 # Batch Normalization
 ### Reference
 ### Status

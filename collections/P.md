@@ -271,6 +271,15 @@ Pending
 ### Figure
 ### Tricks
 
+# Priority Score
+### Reference
+### Status
+Pending
+### Definition
+### Description
+### Figure
+### Tricks
+
 # Probabilistic Regression Model
 ### Reference
 https://developers.google.com/machine-learning/glossary#probabilistic-regression-model
