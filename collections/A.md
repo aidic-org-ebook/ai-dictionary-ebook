@@ -29,12 +29,25 @@ Kết quả này sau đó được sử dụng làm đầu vào cho nơ-ron kế
 
 # Active Learning
 ### Reference
+https://deepai.org/machine-learning-glossary-and-terms/active-learning
 ### Status
-Pending
+### Status
+Translate
 ### Definition
+Học tích cực
 ### Description
+Học tích cực là một hình thức học bán giám sát (semi-supervised learning).
+Cụm từ này diễn tả quá trình sắp xếp sự ưu tiên đối với những dữ liệu cần được gắn thẻ để có được kết quả tốt nhất trong việc huấn luyện một mô hình học có giám sát (supervised learning model).
+Các bước học tích cực cô đọng:
+1. Người sử dụng cần tự gắn nhãn một tệp dữ liệu mẫu nhỏ, sau đó huấn luyện mô hình trên tệp dữ liệu đó.
+Mô hình này tuyệt nhiên sẽ không dùng được, nhưng nó giúp ta có cái nhìn tổng quát hơn về vùng nào cần được ưu tiên gắn nhãn hơn vùng khác.
+2.  Sử dụng mô hình trên để phân loại những điểm dữ liệu (data point) còn lại, sau đó chấm điểm cho chúng.
+Điểm này mang tên 'Điểm ưu tiên' (Priority score).
+3. Lặp lại toàn quá trình trên: Một mô hình mới được huấn luyện dựa trên tệp dữ liệu đã được gắn thẻ của mô hình trước, sau đó sử dụng mô hình đó tiếp tục phân loại dữ  liệu chưa gắn thẻ để cập nhật quy cách gán điểm ưu tiên.
+Bằng cách này, mô hình sẽ ngày càng chuẩn xác hơn.
 ### Figure
 ### Tricks
+Trong thực tiễn, nếu một dự đoán của mô hình được người vận hành xác nhận là sai, dữ liệu đó có thể được sử dụng để tinh chỉnh (fine-tune) mô hình, hay nói cách khác, trở thành dữ liệu huấn luyện. Tuy nhiên, số lượng dữ liệu dùng để tinh chỉnh cần đạt một giá trị nhất định để có thể ảnh hưởng tới độ chính xác của mô hình.
 
 # AdaBoost (Adaptive Boosting)
 ### Reference
